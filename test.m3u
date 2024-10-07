@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 
 
@@ -215,3 +216,222 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 
 
+=======
+#EXTM3U
+
+
+#EXTINF:0 channel-id="JAG" channel-number="10" tvg-logo="https://images.pluto.tv/channels/660e5dc60cd4630008f6198a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/660e5dc60cd4630008f6198a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="JAG" group-title="SERIES", JAG
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e5dc60cd4630008f6198a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="SCORPION" channel-number="20" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="SCORPION" group-title="SERIES", SCORPION
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d000ef4e83e700086e0d6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="ROOKIE BLUE" channel-number="30" tvg-logo="https://images.pluto.tv/channels/63fe2ec4dff38e000835f786/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63fe2ec4dff38e000835f786/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="ROOKIE BLUE" group-title="SERIES", ROOKIE BLUE
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63fe2ec4dff38e000835f786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="MOST HAUNTED" channel-number="40" tvg-logo="https://images.pluto.tv/channels/6081648340382e0007f73d45/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6081648340382e0007f73d45/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="MOST HAUNTED" group-title="SERIES", MOST HAUNTED
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081648340382e0007f73d45/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="GHOST HUNTERS" channel-number="50" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="GHOST HUNTERS" group-title="SERIES", GHOST HUNTERS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="ANDROMEDA" channel-number="60" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="ANDROMEDA" group-title="SERIES", ANDROMEDA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8db96bccae160007c71eec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="JUDGE JUDY" channel-number="70" tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="JUDGE JUDY" group-title="SERIES", JUDGE JUDY
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f498d119b4c000719c0b7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="HELLS KITCHEN" channel-number="80" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e6f38792075160007d85823/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="HELS KITCHEN" group-title="SERIES", HELLS KITCHEN
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e6f38792075160007d85823/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="UNDERCOVER BOSS GLOBAL" channel-number="90" tvg-logo="https://images.pluto.tv/channels/5f0dc00b15eef10007726ef7/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5f0dc00b15eef10007726ef7/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="UNDERCOVER BOSS GLOBAL" group-title="SERIES", UNDERCOVER BOSS GLOBAL
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0dc00b15eef10007726ef7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="OPERATION REPO" channel-number="100" tvg-logo="https://images.pluto.tv/channels/600ad9e56c609c0007e2b6d0/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/600ad9e56c609c0007e2b6d0/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="OPERATION REPO" group-title="SERIES", OPERATION REPO
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600ad9e56c609c0007e2b6d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="RULES OF ENGAGEMENT" channel-number="110" tvg-logo="https://images.pluto.tv/channels/66275fd09e68c200089e0335/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66275fd09e68c200089e0335/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="RULES OF ENGAGEMENT" group-title="SERIES", RULES OF ENGAGEMENT
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66275fd09e68c200089e0335/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="DOG THE BOUNTY HUNTER" channel-number="120" tvg-logo="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5f6b535a278bfe000799484a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="DOG THE BOUNTY HUNTER" group-title="SERIES", DOG THE BOUNTY HUNTER
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f6b535a278bfe000799484a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="DUCK DYNASTY" channel-number="130" tvg-logo="https://images.pluto.tv/channels/5f6b54b9e67cf60007d4cef1/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5f6b54b9e67cf60007d4cef1/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="DUCK DYNASTY" group-title="SERIES", DUCK DYNASTY
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f6b54b9e67cf60007d4cef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=975eb000-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=591919d2-8170-4350-be01-daef20c6e026&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO TV SCI FI" channel-number="140" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO TV SCI FI" group-title="MOVIES", PLUTO TV SCI FI
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc02a44a9518600094273ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO MOVIES" channel-number="150" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO MOVIES" group-title="MOVIES", PLUTO MOVIES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO TV ACTION" channel-number="160" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO TV ACTION" group-title="MOVIES", PLUTO TV ACTION
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO TV CHRISTMAS IN SUMMER" channel-number="170" tvg-logo="https://images.pluto.tv/channels/62cbdc45d3cb9f0007128df4/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/62cbdc45d3cb9f0007128df4/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO TV CHRISTMAS IN SUMMER" group-title="MOVIES", PLUTO TV CHRISTMAS IN SUMMER
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbdc45d3cb9f0007128df4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO THRILLERS" channel-number="180" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO THRILLERS" group-title="MOVIES", PLUTO THRILLERS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbfedccc563080009b60f4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="MOVIE SPHERE" channel-number="190" tvg-logo="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6401d85a49839300087b116c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="MOVIE SPHERE" group-title="MOVIES", MOVIE SPHERE
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6401d85a49839300087b116c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO TV WESTERNS" channel-number="200" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO TV WESTERNS" group-title="MOVIES", PLUTO TV WESTERNS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d4bdb635ce813b38639e6a3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO FAMILY MOVIE CLUB" channel-number="210" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO FAMILY MOVIE CLUB" group-title="MOVIES", PLUTO FAMILY MOVIE CLUB
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO TV COMEDY MOVIES" channel-number="220" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO TV COMEDY MOVIES" group-title="MOVIES", PLUTO TV COMEDY MOVIES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="BRITTISH SCREEN CLASSICS" channel-number="230" tvg-logo="https://images.pluto.tv/channels/65031534d545e9000881ed10/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65031534d545e9000881ed10/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="BRITISH SCREEN CLASSICS" group-title="MOVIES", BRITISH SCREEN CLASSICS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65031534d545e9000881ed10/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="PLUTO SCI FI SERIES" channel-number="440" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/619247c34a270700077c8415/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="PLUTO SCI FI SERIES" group-title="CHANNELS", PLUTO SCI FI SERIES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619247c34a270700077c8415/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="MORE TV SCI FI" channel-number="440" tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="MORE TV SCI FI" group-title="CHANNELS", MORE TV SCI FI
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e00d5d3fdde000829463a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA HEARTLAND" channel-number="240" tvg-logo="https://images.pluto.tv/channels/61f07513227feb00073ee6bc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/61f07513227feb00073ee6bc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA HEARTLAND" group-title="SERIES", USA HEARTLAND
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f07513227feb00073ee6bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA MURDER SHE WROTE" channel-number="250" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6549337183595c000815ad05/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA MURDER SHE WROTE" group-title="SERIES", USA MURDER SHE WROTE
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA STARGATE" channel-number="260" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA STARGATE" group-title="SERIES", USA STARGATE
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA STAR TREK VOYAGER" channel-number="270" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA STAR TREK VOYAGER" group-title="SERIES", USA STAR TREK VOYAGER
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA STAR TREK DEEP SPACE 9" channel-number="280" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA STAR TREK DEEP SPACE 9" group-title="SERIES", USA STAR TREK DEEP SPACE 9
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA NCIS HAWAI" channel-number="290" tvg-logo="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA NCIS HAWAI" group-title="SERIES", USA NCIS HAWAI
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA PICKERS & PAWN BY H" channel-number="300" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6565413e4261ca0008215320/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA PICKERS & PAWN BY H" group-title="SERIES", USA PICKERS & PAWN BY H
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6565413e4261ca0008215320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA PLUTO ACTION" channel-number="310" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA PLUTO ACTION" group-title="MOVIES", USA PLUTO ACTION
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA PLUTO REACTION" channel-number="320" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA PLUTO REACTION" group-title="MOVIES", USA PLUTO REACTION
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA PLUTO WESTERNS" channel-number="330" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA PLUTO WESTERNS" group-title="MOVIES", USA PLUTO WESTERNS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA PLUTO CLASSIC MOVIE WESTERNS" channel-number="340" tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/61f33318210549000806a530/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA PLUTO CLASSIC MOVIE WESTERNS" group-title="MOVIES", USA PLUTO CLASSIC MOVIE WESTERNS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f33318210549000806a530/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="USA PLUTO CHRISTMAS" channel-number="350" tvg-logo="https://images.pluto.tv/channels/63335df531a7590007c226b9/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63335df531a7590007c226b9/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="USA PLUTO CHRISTMAS" group-title="MOVIES", USA PLUTO CHRISTMAS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+
+#EXTINF:0 channel-id="CA KING OF QUEENS" channel-number="360" tvg-logo="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CA KING OF QUEENS" group-title="SERIES", CA KING OF QUEENS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f414c2ba130007f8b24e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="CA ANGER MANAGEMENT" channel-number="370" tvg-logo="https://images.pluto.tv/channels/65cf8bdaa25d5e00081e1e5d/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65cf8bdaa25d5e00081e1e5d/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CA ANGER MANAGEMENT" group-title="SERIES", CA ANGER MANAGEMENT
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8bdaa25d5e00081e1e5d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="CA NCIS" channel-number="380" tvg-logo="https://images.pluto.tv/channels/62f4f5de1c100100075665ef/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/62f4f5de1c100100075665ef/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CA NCIS" group-title="SERIES", CA NCIS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f5de1c100100075665ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="CA NCIS LOS ANGELES" channel-number="390" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CA NCIS LOS ANGELES" group-title="SERIES", CA NCIS LOS ANGELES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a106c8a79dea0008aa5ef3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="CA MORE NCIS" channel-number="400" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CA MORE NCIS" group-title="SERIES", CA MORE NCIS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e949f0cec1e60007f03314/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="CA STAR TREK THE NEXT GENERATION" channel-number="410" tvg-logo="https://images.pluto.tv/channels/66601d838ce3110008a9d7bf/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66601d838ce3110008a9d7bf/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CA STAR TREK THE NEXT GENERATION" group-title="SERIES", CA STAR TREK THE NEXT GENERATION
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66601d838ce3110008a9d7bf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="CA STAR TREK" channel-number="420" tvg-logo="https://images.pluto.tv/channels/66601e338ea5560008f7820e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66601e338ea5560008f7820e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CA STAR TREK" group-title="SERIES", CA STAR TREK
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66601e338ea5560008f7820e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="CA CHRISTMAS 365" channel-number="430" tvg-logo="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CA CHRISTMAS 365" group-title="MOVIES", CA CHRISTMAS 365
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6d4308f5ec0007453c09/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> cd672c01a3d7be28b725e65674e0a85558c2509b
