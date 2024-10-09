@@ -5705,33 +5705,9 @@
       <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20241009111600 +0100" stop="20241009125200 +0100" channel="BRITISH SCREEN CLASSICS">
-    <title lang="en">Landfall</title>
-    <desc lang="en">At Coastal Command in Southern England, an RAF pilot is suspended after possibly sinking a British sub.</desc>
-    <category lang="en">Classics</category>
-    <category lang="en">Classic Dramas</category>
-    <icon src="https://images.pluto.tv/episodes/66aa6ec017101c0013a44fd4/poster.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <premiere />
-    <rating>
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20241009125200 +0100" stop="20241009141600 +0100" channel="BRITISH SCREEN CLASSICS">
-    <title lang="en">The Lion Has Wings</title>
-    <desc lang="en">Documentary-style WWII propaganda film following an RAF Wing-Commander and his family in the weeks following the outbreak of war. Sponsored by the Ministry of Information.</desc>
-    <category lang="en">Classics</category>
-    <category lang="en">Classic Dramas</category>
-    <icon src="https://images.pluto.tv/episodes/66aa67599322c00013096bf5/poster.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <premiere />
-    <rating>
-      <value>All</value>
-    </rating>
-  </programme>
   <programme start="20241009141600 +0100" stop="20241009160200 +0100" channel="BRITISH SCREEN CLASSICS">
     <title lang="en">Frieda</title>
-    <desc lang="en">RAF pilot Robert Dawson returns home from World War II with his new bride, Frieda, the German girl who helped him escape from a prisoner-of-war camp. They have to deal with the venomous bigotry of both Robert's family and neighbours.</desc>
+    <desc lang="en">RAF pilot Robert Dawson returns home from World War II with his new bride, Frieda, the German girl who helped him escape from a prisoner-of-war camp. They have to deal with the venomous bigotry of both Robert's family and neighbours.(n)</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Dramas</category>
     <icon src="https://images.pluto.tv/episodes/66aa6ebe17101c0013a44c43/poster.jpg" />
@@ -5743,7 +5719,7 @@
   </programme>
   <programme start="20241009160200 +0100" stop="20241009173500 +0100" channel="BRITISH SCREEN CLASSICS">
     <title lang="en">Floods of Fear</title>
-    <desc lang="en">Two inmates who have been put to work during a severe flood are washed away in the strong current, along with their guard. The trio find refuge in an isolated house partly engulfed with water but also containing a frightened woman.</desc>
+    <desc lang="en">Two inmates who have been put to work during a severe flood are washed away in the strong current, along with their guard. The trio find refuge in an isolated house partly engulfed with water but also containing a frightened woman.(n)</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Dramas</category>
     <icon src="https://images.pluto.tv/episodes/66b1ca7317101c0013f8df5b/poster.jpg" />
@@ -5755,7 +5731,7 @@
   </programme>
   <programme start="20241009173500 +0100" stop="20241009192100 +0100" channel="BRITISH SCREEN CLASSICS">
     <title lang="en">The Frightened City</title>
-    <desc lang="en">A small time thief is recruited by a mobster to help with the racketeering. He doesn't like the job, but with the mob on his back, a femme fatale in his bed and a sick friend to care for, he will have to keep all his wits about him.</desc>
+    <desc lang="en">A small time thief is recruited by a mobster to help with the racketeering. He doesn't like the job, but with the mob on his back, a femme fatale in his bed and a sick friend to care for, he will have to keep all his wits about him.(n)</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Dramas</category>
     <icon src="https://images.pluto.tv/episodes/66ab8e8ddc6f2f001341c94f/poster.jpg" />
@@ -5765,202 +5741,10 @@
       <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20241009000728 +0100" stop="20241009010335 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">New Twilight Zone: Shatterday/A Little Peace and Quiet</title>
-    <sub-title lang="en">Shatterday/A Little Peace and Quiet</sub-title>
-    <desc lang="en">A man named Peter Jay Novins accidentally dials his home phone number, and it's answered by Peter Jay Novins/A harried housewife finds a medallion that gives her the power to freeze time.</desc>
-    <category lang="en">Horror</category>
-    <category lang="en">Supernatural Horror</category>
-    <icon src="https://images.pluto.tv/episodes/668e68b414c6d2001308f03d/poster.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009010335 +0100" stop="20241009020007 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">New Twilight Zone: Gramma/Personal Demons/Cold Reading</title>
-    <sub-title lang="en">Gramma/Personal Demons/Cold Reading</sub-title>
-    <desc lang="en">A young boy cares for his grandmother, confronting fears to step up/A screenwriter with writer's block is haunted by unseen creatures/Actors in a radio play realize their words manifest reality.</desc>
-    <category lang="en">Horror</category>
-    <category lang="en">Supernatural Horror</category>
-    <icon src="https://images.pluto.tv/episodes/668e68c314c6d2001308f30c/poster.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009020007 +0100" stop="20241009025629 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">New Twilight Zone: Wordplay/Dreams For Sale/Chameleon</title>
-    <sub-title lang="en">Wordplay/Dreams For Sale/Chameleon</sub-title>
-    <desc lang="en">A salesman stunned as others speak jumbled English/A woman's picnic fantasy shattered/A shuttle returns with an unusual find.</desc>
-    <category lang="en">Horror</category>
-    <category lang="en">Supernatural Horror</category>
-    <icon src="https://images.pluto.tv/episodes/668e68b614c6d2001308f097/poster.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009025629 +0100" stop="20241009035253 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">New Twilight Zone: Healer/Children's Zoo/Kentucky Rye</title>
-    <sub-title lang="en">Healer/Children's Zoo/Kentucky Rye</sub-title>
-    <desc lang="en">Jackie steals a healing stone but loses his way/A girl's zoo visit transforms her parents' relationship/Bob enters a strange bar post-accident.</desc>
-    <category lang="en">Horror</category>
-    <category lang="en">Supernatural Horror</category>
-    <icon src="https://images.pluto.tv/episodes/668e68bf14c6d2001308f258/poster.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009035253 +0100" stop="20241009041901 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">New Twilight Zone: Wong's Lost and Found Emporium</title>
-    <sub-title lang="en">Wong's Lost and Found Emporium</sub-title>
-    <desc lang="en">David Wong searches for something he lost. He seeks the Lost and Found Emporium where he finds others looking for their lost items.</desc>
-    <category lang="en">Horror</category>
-    <category lang="en">Supernatural Horror</category>
-    <icon src="https://images.pluto.tv/episodes/668e68ce14c6d2001308f558/poster.jpg" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009041901 +0100" stop="20241009051111 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Starhunter Redux: A Twist in Time (REDUX)</title>
-    <sub-title lang="en">A Twist in Time (REDUX)</sub-title>
-    <desc lang="en">While transporting an insane convict named "Five," Dante diverts course to answer a distress call from a graviton research station on Triton, which is experimenting with the distortion of space and time.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/65a7ac3270ac440013ce6161/poster.jpg" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009051111 +0100" stop="20241009060320 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Starhunter Redux: Eat Sin (REDUX)</title>
-    <sub-title lang="en">Eat Sin (REDUX)</sub-title>
-    <desc lang="en">Under the effects of a space/time warp, members of the Tulip's crew find themselves alone in their own parallel universe, dealing with a separate version of their marauding psychopathic prisoner, "Five.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/65a7ac2d70ac440013ce609f/poster.jpg" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009060320 +0100" stop="20241009065521 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Starhunter Redux: Bad Girls (REDUX)</title>
-    <sub-title lang="en">Bad Girls (REDUX)</sub-title>
-    <desc lang="en">When a wealthy socialite and his two daughters book the Tulip for a passage to Mars, Percy and the destructive young women become fast friends, creating serious trouble for Dante.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/65a7ac2a70ac440013ce603e/poster.jpg" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009065521 +0100" stop="20241009074716 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Starhunter Redux: Bad Seed (REDUX)</title>
-    <sub-title lang="en">Bad Seed (REDUX)</sub-title>
-    <desc lang="en">Dante is abducted by an Orchard agent (Tosca), in an effort to track down Travis. Tosca believes that he is the key to the Divinity Cluster.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/65a7ad9d5884b400133ae44d/poster.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009074716 +0100" stop="20241009083914 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Starhunter Redux: Travis (REDUX)</title>
-    <sub-title lang="en">Travis (REDUX)</sub-title>
-    <desc lang="en">Dante finally finds his son, Travis, but the Raider that raised him stands between father and son reuniting, as the Earth's future hangs in the balance.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/65a7ad955884b400133ae32d/poster.jpg" />
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009083914 +0100" stop="20241009093043 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Starhunter Redux: Resurrection (REDUX)</title>
-    <sub-title lang="en">Resurrection (REDUX)</sub-title>
-    <desc lang="en">Eccleston returns from "the other side" just as Raider forces attack the Tulip... on their way to destroy what is left of the Earth.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/65a7ad985884b400133ae38f/poster.jpg" />
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009093043 +0100" stop="20241009102343 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Relic Hunter: Antianeirai</title>
-    <sub-title lang="en">Antianeirai</sub-title>
-    <desc lang="en">Sydney and Nigel travel to Istanbul to investigate the death of one Sydney's friends, a professor who was trying to prove Hercules did exist by finding the Belt of Hippolyte.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/616ec9f4d4b818001a6ba2a9/poster.jpg" />
-    <episode-num system="onscreen">S3 E16</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009102343 +0100" stop="20241009111643 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Relic Hunter: Faux Fox</title>
-    <sub-title lang="en">Faux Fox</sub-title>
-    <desc lang="en">When Nigel is charmed by brilliant student Lorraine to show her their offices (and kiss), a burglar knocks out Sidney, but what was robbed?</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/616ec9f8d4b818001a6ba4ad/poster.jpg" />
-    <episode-num system="onscreen">S3 E17</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009111643 +0100" stop="20241009120943 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Relic Hunter: Pandora's Box</title>
-    <sub-title lang="en">Pandora's Box</sub-title>
-    <desc lang="en">Sidney inherits from the best relic hunter of the previous generation a key and rushes with Nigel on the hunt for the one treasure he never found: Pandora's box.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/616ec9f4d4b818001a6ba385/poster.jpg" />
-    <episode-num system="onscreen">S3 E18</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009120943 +0100" stop="20241009130243 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Relic Hunter: The Warlord</title>
-    <sub-title lang="en">The Warlord</sub-title>
-    <desc lang="en">Bekkastan, 1401 AD: warrior princess Kahina proves her right to rule. 2002: Sydney and Nigel unearth a cave painting that might lead them to Kahina's Saddle. But her descendants cause complications.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/616ec9f5d4b818001a6ba40b/poster.jpg" />
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009130243 +0100" stop="20241009135543 +0100" channel="PLUTO SCI FI SERIES">
-    <title lang="en">Relic Hunter: Fountain of Youth</title>
-    <sub-title lang="en">Fountain of Youth</sub-title>
-    <desc lang="en">While Nigel rehearses his keynote speech in a Seville hotel room, a girl nearly breaks his nose demanding something - it turns out she was after the water from the Fountain of Youth.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/616ec9f4d4b818001a6ba2c6/poster.jpg" />
-    <episode-num system="onscreen">S3</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
   <programme start="20241009135543 +0100" stop="20241009144843 +0100" channel="PLUTO SCI FI SERIES">
     <title lang="en">Relic Hunter: Arthur's Cross</title>
     <sub-title lang="en">Arthur's Cross</sub-title>
-    <desc lang="en">Scotland Yard calls Sidney and Nigel to identify a 5th century murder weapon. It turns out to be the burial cross of King Arthur, but besides the victim several others are looking for it.</desc>
+    <desc lang="en">Scotland Yard calls Sidney and Nigel to identify a 5th century murder weapon. It turns out to be the burial cross of King Arthur, but besides the victim several others are looking for it.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/616ec9f4d4b818001a6ba311/poster.jpg" />
@@ -5972,7 +5756,7 @@
   <programme start="20241009144843 +0100" stop="20241009154143 +0100" channel="PLUTO SCI FI SERIES">
     <title lang="en">Relic Hunter: So Shall It Be</title>
     <sub-title lang="en">So Shall It Be</sub-title>
-    <desc lang="en">When Sidney and Nigel are about to enter the site of a Bristol lecture, a young author approaches them to follow up immediately on a tip about a map to the lost keys to the druid cult in Stonehenge.</desc>
+    <desc lang="en">When Sidney and Nigel are about to enter the site of a Bristol lecture, a young author approaches them to follow up immediately on a tip about a map to the lost keys to the druid cult in Stonehenge.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/616ec9f4d4b818001a6ba28c/poster.jpg" />
@@ -5984,7 +5768,7 @@
   <programme start="20241009154143 +0100" stop="20241009163443 +0100" channel="PLUTO SCI FI SERIES">
     <title lang="en">Relic Hunter: Buddha's Bowl</title>
     <sub-title lang="en">Buddha's Bowl</sub-title>
-    <desc lang="en">Sydney and Nigel head to Nepal to recover Buddha's fabled overflowing alms bowl for villagers who are building a shrine to the original Buddha.</desc>
+    <desc lang="en">Sydney and Nigel head to Nepal to recover Buddha's fabled overflowing alms bowl for villagers who are building a shrine to the original Buddha.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/616ebb75a6e392001bc2a8c6/poster.jpg" />
@@ -5996,7 +5780,7 @@
   <programme start="20241009163443 +0100" stop="20241009172743 +0100" channel="PLUTO SCI FI SERIES">
     <title lang="en">Relic Hunter: The Headless Nun</title>
     <sub-title lang="en">The Headless Nun</sub-title>
-    <desc lang="en">When Sydney's plane crashes, she's asked by a group of nuns to find the head of another nun who was decapitated several centuries ago.</desc>
+    <desc lang="en">When Sydney's plane crashes, she's asked by a group of nuns to find the head of another nun who was decapitated several centuries ago.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/616ebb75a6e392001bc2a8f6/poster.jpg" />
@@ -6008,7 +5792,7 @@
   <programme start="20241009172743 +0100" stop="20241009181949 +0100" channel="PLUTO SCI FI SERIES">
     <title lang="en">Farscape: Farscape: S4 E10 - Coup By Clam</title>
     <sub-title lang="en">Farscape: S4 E10 - Coup By Clam</sub-title>
-    <desc lang="en">The crew consume food, sharing amongst themselves. Although if not ingested by the same person, it becomes toxic.</desc>
+    <desc lang="en">The crew consume food, sharing amongst themselves. Although if not ingested by the same person, it becomes toxic.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Sci-Fi Cult Classics</category>
     <icon src="https://images.pluto.tv/episodes/65646d43b8262d0013e0275b/poster.jpg" />
@@ -6020,7 +5804,7 @@
   <programme start="20241009181949 +0100" stop="20241009191155 +0100" channel="PLUTO SCI FI SERIES">
     <title lang="en">Farscape: Farscape: S4 E11 - Unrealized Reality</title>
     <sub-title lang="en">Farscape: S4 E11 - Unrealized Reality</sub-title>
-    <desc lang="en">Crichton falls into a wormhole and meets up with a strange man who shows Crichton the consequences of wormhole travel.</desc>
+    <desc lang="en">Crichton falls into a wormhole and meets up with a strange man who shows Crichton the consequences of wormhole travel.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Sci-Fi Cult Classics</category>
     <icon src="https://images.pluto.tv/episodes/65646d45b8262d0013e0282e/poster.jpg" />
@@ -6029,202 +5813,10 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20241009003121 +0100" stop="20241009012521 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Sanctuary: Out Of The Blue</title>
-    <sub-title lang="en">Out Of The Blue</sub-title>
-    <desc lang="en">Meet Helen and Will: neighbors on a tree-lined, suburban street. Helen lives alone, dislikes her neighbor’s dog and is a talented painter.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/616574ae0b4e8f001a950baf/poster.jpg" />
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009012521 +0100" stop="20241009021921 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Sanctuary: Into The Black</title>
-    <sub-title lang="en">Into The Black</sub-title>
-    <desc lang="en">The Sanctuary receives alarming news that a large group of Abnormals has been spotted at the entrance to a cave in South Dakota.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/616574ae0b4e8f001a950b96/poster.jpg" />
-    <episode-num system="onscreen">S3</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009021921 +0100" stop="20241009031221 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Sanctuary: Tempus</title>
-    <sub-title lang="en">Tempus</sub-title>
-    <desc lang="en">Adam Worth destroys Praxis and travels back in time to the 1890s to save his daughter. Dr. Magnus travels back in time to stop him before he damages the time line and destroys her future with it.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/61656456b8333a001ad5e4df/poster.jpg" />
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009031221 +0100" stop="20241009040521 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Sanctuary: Uprising</title>
-    <sub-title lang="en">Uprising</sub-title>
-    <desc lang="en">With Magnus gone, Will is appointed the head of the Sanctuary Network. The abnormal uprising continues to get worse. Biggie and Kate are kidnapped. As expected the surface governments respond to the uprising with deadly force.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/61656455b8333a001ad5e4a8/poster.jpg" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <rating>
-      <value>15+</value>
-    </rating>
-  </programme>
-  <programme start="20241009040521 +0100" stop="20241009042921 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Flash Gordon Conquers the Universe: Stark Treachery</title>
-    <sub-title lang="en">Stark Treachery</sub-title>
-    <desc lang="en">Flash Gordon, Dale Arden and Dr. Zarkov return to the planet Mongo for an antidote to the Purple Death, which wreaking destruction on Earth. However, Ming the Merciless has other plans for them.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/61289e0886e1e00016723ef3/poster.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating>
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20241009042921 +0100" stop="20241009052127 +0100" channel="MORE TV SCI FI">
-    <title lang="en">The Lost World: The Beast Within</title>
-    <sub-title lang="en">The Beast Within</sub-title>
-    <desc lang="en">Malone goes after a healer that's been filled with the spirit of a demon in exchange for safe release from the village. The girls must set their differences aside and learn to trust each other.</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Adventures</category>
-    <icon src="https://images.pluto.tv/episodes/658be08ad40ef300137c15eb/poster.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009052127 +0100" stop="20241009061333 +0100" channel="MORE TV SCI FI">
-    <title lang="en">The Lost World: Creatures of the Dark</title>
-    <sub-title lang="en">Creatures of the Dark</sub-title>
-    <desc lang="en">Challenger tries to convince an underground civilization of the dangers of an active volcano ready to blow. In the meantime Veronica, Roxton, and Summerlee try to outrun the Vantu.</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Adventures</category>
-    <icon src="https://images.pluto.tv/episodes/658be1f60726640013bb777d/poster.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009061333 +0100" stop="20241009070539 +0100" channel="MORE TV SCI FI">
-    <title lang="en">The Lost World: Tribute</title>
-    <sub-title lang="en">Tribute</sub-title>
-    <desc lang="en">Challenger, Roxton, and Veronica teach the Tintas how to retaliate against the Hikari so that they may be independent. Meanwhile Marguerite, Summerlee, and Malone help a WWI pilot fix his plane.</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Adventures</category>
-    <icon src="https://images.pluto.tv/episodes/658be1f20726640013bb771c/poster.jpg" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009070539 +0100" stop="20241009075745 +0100" channel="MORE TV SCI FI">
-    <title lang="en">The Lost World: Absolute Power</title>
-    <sub-title lang="en">Absolute Power</sub-title>
-    <desc lang="en">A powerful light ray from an ancient temple knocks Professor Challenger unconscious. As the explorers try and save him, he occupies an alternate reality in his mind where he has godlike powers.</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Adventures</category>
-    <icon src="https://images.pluto.tv/episodes/658be4c5d40ef300137c1776/poster.jpg" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009075745 +0100" stop="20241009084951 +0100" channel="MORE TV SCI FI">
-    <title lang="en">The Lost World: Camelot</title>
-    <sub-title lang="en">Camelot</sub-title>
-    <desc lang="en">In the process of trying to save Marguerite from being betrothed to a teenage king, Malone must face a T-Rex with only a sword and Roxton must joust against Vordred.</desc>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Adventures</category>
-    <icon src="https://images.pluto.tv/episodes/658be4c2d40ef300137c1715/poster.jpg" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009084951 +0100" stop="20241009093851 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Mutant X</title>
-    <sub-title lang="en">Double Vision</sub-title>
-    <desc lang="en">An old friend of Brennan's lures him and Emma into a trap. Emma ends up split into two separate entities, one good and one evil.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009093851 +0100" stop="20241009102751 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Mutant X</title>
-    <sub-title lang="en">Blood Ties</sub-title>
-    <desc lang="en">Jesse is roped into a deadly undercover mission by his estranged father, who is working against Eckhart.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/episodes/5eb7e36bd6ea50001a322dee/poster.jpg" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009102751 +0100" stop="20241009111651 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Mutant X</title>
-    <sub-title lang="en">Altered Ego</sub-title>
-    <desc lang="en">A young New Mutant from Adam's past shows up, seeking revenge for her father's death.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009111651 +0100" stop="20241009120551 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Mutant X</title>
-    <sub-title lang="en">Lazarus Syndrome</sub-title>
-    <desc lang="en">The team encounters a mutant who kills other mutants by draining their energy and can also come back to life after being killed.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009120551 +0100" stop="20241009125451 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Mutant X</title>
-    <sub-title lang="en">Interface</sub-title>
-    <desc lang="en">Emma reunites with an old friend who possesses telecyber powers. The reunion turns dangerous, however, when Michelle tries to turn Emma over to the GSA.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241009125451 +0100" stop="20241009134351 +0100" channel="MORE TV SCI FI">
-    <title lang="en">Mutant X</title>
-    <sub-title lang="en">Presumed Guilty</sub-title>
-    <desc lang="en">Adam is framed for murder by a New Mutant with the ability to steal people's memories.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
   <programme start="20241009134351 +0100" stop="20241009143051 +0100" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: Limbo</title>
     <sub-title lang="en">Limbo</sub-title>
-    <desc lang="en">The Taelons lend some of their dwindling core energy to Joshua Doors for a pilot cold fusion project, but the energy is stolen, leaving the Taelons vulnerable. Jonathan Doors lives on as an AI in cyberspace.</desc>
+    <desc lang="en">The Taelons lend some of their dwindling core energy to Joshua Doors for a pilot cold fusion project, but the energy is stolen, leaving the Taelons vulnerable. Jonathan Doors lives on as an AI in cyberspace.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://images.pluto.tv/episodes/6140a755aeae500014d5a94b/poster.jpg" />
@@ -6236,7 +5828,7 @@
   <programme start="20241009143051 +0100" stop="20241009151751 +0100" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: Motherlode</title>
     <sub-title lang="en">Motherlode</sub-title>
-    <desc lang="en">Augur is caught and placed in a special prison where he is placed in a sensory deprivation chamber. An amoralist gets him out and wants Augur to help him steal the gold Zo'or has on the mothership. When Liam learns of what happened he tries to find Augur.</desc>
+    <desc lang="en">Augur is caught and placed in a special prison where he is placed in a sensory deprivation chamber. An amoralist gets him out and wants Augur to help him steal the gold Zo'or has on the mothership. When Liam learns of what happened he tries to find Augur.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://images.pluto.tv/episodes/6140a755aeae500014d5aa2c/poster.jpg" />
@@ -6248,7 +5840,7 @@
   <programme start="20241009151751 +0100" stop="20241009160451 +0100" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: Take No Prisoners</title>
     <sub-title lang="en">Take No Prisoners</sub-title>
-    <desc lang="en">The ANA negotiate amnesty for all resistance members, Liam tries to convince resistance member Halley Simmons to take the offer. Sandoval uses parasites to make volunteers do suicide missions against the resistance.</desc>
+    <desc lang="en">The ANA negotiate amnesty for all resistance members, Liam tries to convince resistance member Halley Simmons to take the offer. Sandoval uses parasites to make volunteers do suicide missions against the resistance.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://images.pluto.tv/episodes/6140a755aeae500014d5a97d/poster.jpg" />
@@ -6260,7 +5852,7 @@
   <programme start="20241009160451 +0100" stop="20241009165151 +0100" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: The Second Wave</title>
     <sub-title lang="en">The Second Wave</sub-title>
-    <desc lang="en">The Taelons decide to leave Earth when it appears that the Jiridians are invading. Meanwhile, a group of Resistance prisoners saved from the mother ship include several disguised Jiridians who are causing trouble for Liam and Renee.</desc>
+    <desc lang="en">The Taelons decide to leave Earth when it appears that the Jiridians are invading. Meanwhile, a group of Resistance prisoners saved from the mother ship include several disguised Jiridians who are causing trouble for Liam and Renee.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://images.pluto.tv/episodes/6140a755aeae500014d5a996/poster.jpg" />
@@ -6272,7 +5864,7 @@
   <programme start="20241009165151 +0100" stop="20241009173851 +0100" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: Essence</title>
     <sub-title lang="en">Essence</sub-title>
-    <desc lang="en">Renee's brother has PTSD. In a desperate effort to help him, she agrees to let him undergo special treatment. The treatment removes his emotion. The project is overseen by Sandoval and the emotion they take is given to Da'an.</desc>
+    <desc lang="en">Renee's brother has PTSD. In a desperate effort to help him, she agrees to let him undergo special treatment. The treatment removes his emotion. The project is overseen by Sandoval and the emotion they take is given to Da'an.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://images.pluto.tv/episodes/6140a755aeae500014d5a9af/poster.jpg" />
@@ -6284,7 +5876,7 @@
   <programme start="20241009173851 +0100" stop="20241009182551 +0100" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: Phantom Companion</title>
     <sub-title lang="en">Phantom Companion</sub-title>
-    <desc lang="en">While on board the mothership, Renee sustains an injury and while being treated, she gets pulled into the walls and disappears.</desc>
+    <desc lang="en">While on board the mothership, Renee sustains an injury and while being treated, she gets pulled into the walls and disappears.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://images.pluto.tv/episodes/6140a755aeae500014d5ab58/poster.jpg" />
@@ -6296,7 +5888,7 @@
   <programme start="20241009182551 +0100" stop="20241009191251 +0100" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: Dream Stalker</title>
     <sub-title lang="en">Dream Stalker</sub-title>
-    <desc lang="en">Street asks Liam to help a friend who's arrested for the murder of a man he hated. Liam talks to him and he claims that he dreamed of killing him.</desc>
+    <desc lang="en">Street asks Liam to help a friend who's arrested for the murder of a man he hated. Liam talks to him and he claims that he dreamed of killing him.(n)</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://images.pluto.tv/episodes/6140a755aeae500014d5aaf4/poster.jpg" />
