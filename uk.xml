@@ -294,7 +294,7 @@
   <programme start="20241028164033 +0000" stop="20241028173448 +0000" channel="JAG">
     <title lang="en">JAG: Sightings</title>
     <sub-title lang="en">Sightings</sub-title>
-    <desc lang="en">In south Texas, residents have reported strange phenomena, stories of supernatural events have abounded, and a 10-year-old girl has disappeared.(n)</desc>
+    <desc lang="en">In south Texas, residents have reported strange phenomena, stories of supernatural events have abounded, and a 10-year-old girl has disappeared.</desc>
     <category lang="en">Thriller</category>
     <icon src="https://images.pluto.tv/episodes/663c902541d4c70014e61abe/poster.jpg" />
     <episode-num system="onscreen">S1 E9</episode-num>
@@ -305,7 +305,7 @@
   <programme start="20241028173448 +0000" stop="20241028183023 +0000" channel="JAG">
     <title lang="en">JAG: Scimitar</title>
     <sub-title lang="en">Scimitar</sub-title>
-    <desc lang="en">Two Marines in a Humvee mistakenly drive into Iraq; an Iraqi detail intercepts them, kills one, and captures the other.(n)</desc>
+    <desc lang="en">Two Marines in a Humvee mistakenly drive into Iraq; an Iraqi detail intercepts them, kills one, and captures the other.</desc>
     <category lang="en">Thriller</category>
     <icon src="https://images.pluto.tv/episodes/663c902041d4c70014e61855/poster.jpg" />
     <episode-num system="onscreen">S1</episode-num>
@@ -316,10 +316,43 @@
   <programme start="20241028183023 +0000" stop="20241028192431 +0000" channel="JAG">
     <title lang="en">JAG: Defensive Action</title>
     <sub-title lang="en">Defensive Action</sub-title>
-    <desc lang="en">A patrolling F-14 malfunctions in a no-fly zone; the crew ejects, and the bird explodes.(n)</desc>
+    <desc lang="en">A patrolling F-14 malfunctions in a no-fly zone; the crew ejects, and the bird explodes.</desc>
     <category lang="en">Thriller</category>
     <icon src="https://images.pluto.tv/episodes/663c901d41d4c70014e6175e/poster.jpg" />
     <episode-num system="onscreen">S1 E11</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028192431 +0000" stop="20241028201848 +0000" channel="JAG">
+    <title lang="en">JAG: Boot.</title>
+    <sub-title lang="en">Boot</sub-title>
+    <desc lang="en">A woman Marine recruit dies at Parris Island. Harm investigates while Meg poses undercover as a recruit.(n)</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.pluto.tv/episodes/663c8ff041d4c70014e6062d/poster.jpg" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028201848 +0000" stop="20241028211337 +0000" channel="JAG">
+    <title lang="en">JAG: The Brotherhood</title>
+    <sub-title lang="en">The Brotherhood</sub-title>
+    <desc lang="en">During a landing exercise Marines find a beaten, comatose fellow Marine on the beach.(n)</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.pluto.tv/episodes/663c902241d4c70014e6194c/poster.jpg" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028211337 +0000" stop="20241028220656 +0000" channel="JAG">
+    <title lang="en">JAG: Hemlock</title>
+    <sub-title lang="en">Hemlock</sub-title>
+    <desc lang="en">By mistake a foreign agent sends a fax to Meg's office; then he retrieves it and shoots Meg to prevent her from identifying him.(n)</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.pluto.tv/episodes/663c8fe341d4c70014e5ffef/poster.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -567,7 +600,7 @@
   <programme start="20241028171200 +0000" stop="20241028180300 +0000" channel="SCORPION">
     <title lang="en">Scorpion: The Fast &amp; The Nerdiest</title>
     <sub-title lang="en">The Fast &amp; The Nerdiest</sub-title>
-    <desc lang="en">After Sylvester scores big on THE PRICE IS RIGHT, Team Scorpion must infiltrate a high-end car smuggling operation about to ship bioweapons to South America.(n)</desc>
+    <desc lang="en">After Sylvester scores big on THE PRICE IS RIGHT, Team Scorpion must infiltrate a high-end car smuggling operation about to ship bioweapons to South America.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Crime Action</category>
     <icon src="https://images.pluto.tv/episodes/642584b6559c07001a66f6d0/poster.jpg" />
@@ -579,7 +612,7 @@
   <programme start="20241028180300 +0000" stop="20241028185200 +0000" channel="SCORPION">
     <title lang="en">Scorpion: Ticker</title>
     <sub-title lang="en">Ticker</sub-title>
-    <desc lang="en">When Los Angeles' blood supply is hacked and deemed unusable because of fear it's been tainted, Team Scorpion must find the culprit.(n)</desc>
+    <desc lang="en">When Los Angeles' blood supply is hacked and deemed unusable because of fear it's been tainted, Team Scorpion must find the culprit.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Crime Action</category>
     <icon src="https://images.pluto.tv/episodes/642584b7559c07001a66f7f7/poster.jpg" />
@@ -591,11 +624,47 @@
   <programme start="20241028185200 +0000" stop="20241028194200 +0000" channel="SCORPION">
     <title lang="en">Scorpion: Djibouti Call</title>
     <sub-title lang="en">Djibouti Call</sub-title>
-    <desc lang="en">While on a secret mission in Djibouti, Africa, with his new Homeland protege, Tim Armstrong (Scott Porter), Cabe is captured and Team Scorpion must save him.(n)</desc>
+    <desc lang="en">While on a secret mission in Djibouti, Africa, with his new Homeland protege, Tim Armstrong (Scott Porter), Cabe is captured and Team Scorpion must save him.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Crime Action</category>
     <icon src="https://images.pluto.tv/episodes/642584b4559c07001a66f606/poster.jpg" />
     <episode-num system="onscreen">S2</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028194200 +0000" stop="20241028203200 +0000" channel="SCORPION">
+    <title lang="en">Scorpion: Twist And Shout</title>
+    <sub-title lang="en">Twist And Shout</sub-title>
+    <desc lang="en">Team Scorpion's mission to recover the remains of fallen Marines in Vietnam is threatened along with their lives when a deadly tornado heads directly towards them.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Crime Action</category>
+    <icon src="https://images.pluto.tv/episodes/642584b8559c07001a66f8c0/poster.jpg" />
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028203200 +0000" stop="20241028212300 +0000" channel="SCORPION">
+    <title lang="en">Scorpion: Hard Knox</title>
+    <sub-title lang="en">Hard Knox</sub-title>
+    <desc lang="en">Team Scorpion is hired by the Department of Defense to break into Fort Knox and "steal" a precious artifact in order to test their security.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Crime Action</category>
+    <icon src="https://images.pluto.tv/episodes/642584a7559c07001a66ee25/poster.jpg" />
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028212300 +0000" stop="20241028221000 +0000" channel="SCORPION">
+    <title lang="en">Scorpion: Chernobyl Intentions</title>
+    <sub-title lang="en">Chernobyl Intentions</sub-title>
+    <desc lang="en">Team Scorpion goes to Chernobyl to repair the decaying nuclear reactor before a catastrophic meltdown.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Crime Action</category>
+    <icon src="https://images.pluto.tv/episodes/642584b0559c07001a66f3e9/poster.jpg" />
+    <episode-num system="onscreen">S2 E23</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -843,7 +912,7 @@
   <programme start="20241028171900 +0000" stop="20241028181000 +0000" channel="ROOKIE BLUE">
     <title lang="en">Rookie Blue: Breaking Up the Band</title>
     <sub-title lang="en">Breaking Up the Band</sub-title>
-    <desc lang="en">Now that Sam and Marlo’s baby girl has arrived (Ep. 520), it’s clear nothing could have prepared Andy for this moment. So when Juliet offers Andy an opportunity to leave town for 4 months on an undercover project, Andy starts to consider it.(n)</desc>
+    <desc lang="en">Now that Sam and Marlo’s baby girl has arrived (Ep. 520), it’s clear nothing could have prepared Andy for this moment. So when Juliet offers Andy an opportunity to leave town for 4 months on an undercover project, Andy starts to consider it.</desc>
     <category lang="en">Drama</category>
     <category lang="en">Crime Drama</category>
     <icon src="https://images.pluto.tv/episodes/64341ed320cb77001ae0d594/poster.jpg" />
@@ -855,11 +924,59 @@
   <programme start="20241028181000 +0000" stop="20241028190100 +0000" channel="ROOKIE BLUE">
     <title lang="en">Rookie Blue: 74 Epiphanies</title>
     <sub-title lang="en">74 Epiphanies</sub-title>
-    <desc lang="en">Andy and Sam’s wedding comes just in time for the gang to celebrate one last hurrah. But when Andy is taken off-course by a hitchhiker and then stranded on the side of a dead-end road with a dying man, she finds herself with no way to get help.(n)</desc>
+    <desc lang="en">Andy and Sam’s wedding comes just in time for the gang to celebrate one last hurrah. But when Andy is taken off-course by a hitchhiker and then stranded on the side of a dead-end road with a dying man, she finds herself with no way to get help.</desc>
     <category lang="en">Drama</category>
     <category lang="en">Crime Drama</category>
     <icon src="https://images.pluto.tv/episodes/64341ed120cb77001ae0d4c4/poster.jpg" />
     <episode-num system="onscreen">S5 E74</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190100 +0000" stop="20241028195200 +0000" channel="ROOKIE BLUE">
+    <title lang="en">Rookie Blue: Blink</title>
+    <sub-title lang="en">Blink</sub-title>
+    <desc lang="en">In the aftermath of the night’s traumatic events, Andy and Dov try to pull themselves together at an all-night diner, but are caught off-duty and off-guard in a volatile diner hold-up.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://images.pluto.tv/episodes/64341a99dd38b4001a27fb69/poster.jpg" />
+    <episode-num system="onscreen">S5 E53</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028195200 +0000" stop="20241028204300 +0000" channel="ROOKIE BLUE">
+    <title lang="en">Rookie Blue: All by Her Selfie</title>
+    <sub-title lang="en">All by Her Selfie</sub-title>
+    <desc lang="en">Oliver gets promoted and Andy is tasked with training 15 Division’s newest rookie, Duncan Moore. But when Andy and Duncan respond to a messy homicide at a pawnshop, it’s clear this rookie is going to give Andy the challenge of a lifetime.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://images.pluto.tv/episodes/64341a9edd38b4001a27fc39/poster.jpg" />
+    <episode-num system="onscreen">S5 E54</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028204300 +0000" stop="20241028213300 +0000" channel="ROOKIE BLUE">
+    <title lang="en">Rookie Blue: Heart Breakers, Money Makers</title>
+    <sub-title lang="en">Heart Breakers, Money Makers</sub-title>
+    <desc lang="en">When Andy and Nick’s seizure at an illegal gambling house leads to a suspicious confession, Andy recruits Sam to help figure out who’s lying, why, and where the money is, before anyone gets hurt.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://images.pluto.tv/episodes/64341c1364898f001a299305/poster.jpg" />
+    <episode-num system="onscreen">S5 E55</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028213300 +0000" stop="20241028222400 +0000" channel="ROOKIE BLUE">
+    <title lang="en">Rookie Blue: Wanting</title>
+    <sub-title lang="en">Wanting</sub-title>
+    <desc lang="en">When a tenement-building shooting leads to the discovery of an executed gang leader, 15 Division must race to find the killer before a gang war breaks out.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime Drama</category>
+    <icon src="https://images.pluto.tv/episodes/64341c0b64898f001a29908e/poster.jpg" />
+    <episode-num system="onscreen">S5 E56</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -1076,7 +1193,7 @@
   <programme start="20241028172058 +0000" stop="20241028181458 +0000" channel="MOST HAUNTED">
     <title lang="en">Most Haunted: HMP Shrewsbury Part 2</title>
     <sub-title lang="en">HMP Shrewsbury Part 2</sub-title>
-    <desc lang="en">Part two of this mammoth investigation takes the team to the condemned cell and execution room. Is it a hangman or one of the executed souls that makes itself present and causes the team to re-evaluate what they are doing.(n)</desc>
+    <desc lang="en">Part two of this mammoth investigation takes the team to the condemned cell and execution room. Is it a hangman or one of the executed souls that makes itself present and causes the team to re-evaluate what they are doing.</desc>
     <category lang="en">Paranormal</category>
     <icon src="https://images.pluto.tv/episodes/632c11907a31e800133c5b80/poster.jpg" />
     <episode-num system="onscreen">S19 E9</episode-num>
@@ -1087,10 +1204,43 @@
   <programme start="20241028181458 +0000" stop="20241028190858 +0000" channel="MOST HAUNTED">
     <title lang="en">Most Haunted: HMP Shrewsbury Part 3</title>
     <sub-title lang="en">HMP Shrewsbury Part 3</sub-title>
-    <desc lang="en">The concluding part of the teams biggest investigation sees Yvette get the biggest shock of.(n)</desc>
+    <desc lang="en">The concluding part of the teams biggest investigation sees Yvette get the biggest shock of.</desc>
     <category lang="en">Paranormal</category>
     <icon src="https://images.pluto.tv/episodes/632c11907a31e800133c5b37/poster.jpg" />
     <episode-num system="onscreen">S19</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190858 +0000" stop="20241028200258 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: Halsham House</title>
+    <sub-title lang="en">Halsham House</sub-title>
+    <desc lang="en">Nestled into the British countryside is Halsham house where a poltergeist hides in wait for the team with frightening effect. With bones found in the attic have the team pushed it too far.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/632c11907a31e800133c5b18/poster.jpg" />
+    <episode-num system="onscreen">S19 E3</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028200258 +0000" stop="20241028205658 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: Lyceum Theatre</title>
+    <sub-title lang="en">Lyceum Theatre</sub-title>
+    <desc lang="en">The Lyceum Theatre in Crewe is known for its paranormal activity and in this episode the team take the fight right to phantoms that lurk in its darkness with some frightening consequences.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/632c118f7a31e800133c5b06/poster.jpg" />
+    <episode-num system="onscreen">S19 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028205658 +0000" stop="20241028221853 +0000" channel="MOST HAUNTED">
+    <title lang="en">NEW &amp; EXCLUSIVE! Most Haunted</title>
+    <sub-title lang="en">Return to Penndle Hill Part 4</sub-title>
+    <desc lang="en">The team are still spread thinly across this huge location and without the safety of numbers some of the investigators seem easy prey.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/66ec3d3cf5bba700089e0f18/poster.jpg" />
+    <episode-num system="onscreen">S26 E6</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -1307,7 +1457,7 @@
   <programme start="20241028171700 +0000" stop="20241028181000 +0000" channel="GHOST HUNTERS">
     <title lang="en">Ghost Hunters</title>
     <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Despite mysterious and unnerving warnings from locals, the Ghost Hunters face their fears and stay on mission: to help people confront terrifying paranormal encounters that have shaken them to their core.(n)</desc>
+    <desc lang="en">Despite mysterious and unnerving warnings from locals, the Ghost Hunters face their fears and stay on mission: to help people confront terrifying paranormal encounters that have shaken them to their core.</desc>
     <category lang="en">Paranormal</category>
     <icon src="https://images.pluto.tv/episodes/5f294f7296f755000734073c/poster.jpg" />
     <episode-num system="onscreen">S4 E2</episode-num>
@@ -1318,10 +1468,54 @@
   <programme start="20241028181000 +0000" stop="20241028190100 +0000" channel="GHOST HUNTERS">
     <title lang="en">Ghost Hunters: City Hell</title>
     <sub-title lang="en">City Hell</sub-title>
-    <desc lang="en">Onthis episode of Ghost Hunters, TAPS heads to Providence City Hall to investigate claims that a former mayor is hauntingthe building.(n)</desc>
+    <desc lang="en">Onthis episode of Ghost Hunters, TAPS heads to Providence City Hall to investigate claims that a former mayor is hauntingthe building.</desc>
     <category lang="en">Paranormal</category>
     <icon src="https://images.pluto.tv/episodes/631edba18762280014a7b437/poster.jpg" />
     <episode-num system="onscreen">S8 E6</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190100 +0000" stop="20241028195300 +0000" channel="GHOST HUNTERS">
+    <title lang="en">Ghost Hunters: America's First Zoo</title>
+    <sub-title lang="en">America's First Zoo</sub-title>
+    <desc lang="en">On this episode of Ghost Hunters, TAPS travels to the oldest zoo in the country, The Philadelphia Zoo, which boastsa reported Native American burial ground that lies beneath the grounds.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/631b3c9490490b00141aac8a/poster.jpg" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028195300 +0000" stop="20241028204400 +0000" channel="GHOST HUNTERS">
+    <title lang="en">Ghost Hunters: The Plot Thickens</title>
+    <sub-title lang="en">The Plot Thickens</sub-title>
+    <desc lang="en">On this episode of Ghost Hunters, owners of a haunted theatre in Woonsocket, Rhode Island buy the building next door and activity spikes!   TAPS investigates both buildings to see if spirits are traveling between the two locations.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/631edd49bdb41f001370a1bd/poster.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028204400 +0000" stop="20241028213700 +0000" channel="GHOST HUNTERS">
+    <title lang="en">Ghost Hunters</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">Despite mysterious and unnerving warnings from locals, the Ghost Hunters face their fears and stay on mission: to help people confront terrifying paranormal encounters that have shaken them to their core.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/5f2a78efd7573a00080f9ecc/poster.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028213700 +0000" stop="20241028223000 +0000" channel="GHOST HUNTERS">
+    <title lang="en">Ghost Hunters: Episode 6</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">Despite mysterious and unnerving warnings from locals, the Ghost Hunters face their fears and stay on mission: to help people confront terrifying paranormal encounters that have shaken them to their core.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/5f17fa927516100013eacf93/poster.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -1557,7 +1751,7 @@
   <programme start="20241028164200 +0000" stop="20241028173300 +0000" channel="ANDROMEDA">
     <title lang="en">Andromeda: Deep Midnight's Voice</title>
     <sub-title lang="en">Deep Midnight's Voice</sub-title>
-    <desc lang="en">While caught in a battle between two Nietzschean prides, the crew captures a hostile who claims that his pride possesses a map of the slipstream.(n)</desc>
+    <desc lang="en">While caught in a battle between two Nietzschean prides, the crew captures a hostile who claims that his pride possesses a map of the slipstream.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/5eb7e1c8d6ea50001a322613/poster.jpg" />
@@ -1569,7 +1763,7 @@
   <programme start="20241028173300 +0000" stop="20241028182400 +0000" channel="ANDROMEDA">
     <title lang="en">Andromeda: The Illusion of Majesty</title>
     <sub-title lang="en">The Illusion of Majesty</sub-title>
-    <desc lang="en">A wrong turn after exiting a slipstream sends the Andromeda into the Prolon system. They rescue an escape pod from certain disaster, but the pride wants it back.(n)</desc>
+    <desc lang="en">A wrong turn after exiting a slipstream sends the Andromeda into the Prolon system. They rescue an escape pod from certain disaster, but the pride wants it back.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/5eb7e1cbd6ea50001a322658/poster.jpg" />
@@ -1581,11 +1775,59 @@
   <programme start="20241028182400 +0000" stop="20241028191500 +0000" channel="ANDROMEDA">
     <title lang="en">Andromeda: Twilight of the Idols</title>
     <sub-title lang="en">Twilight of the Idols</sub-title>
-    <desc lang="en">The crew seeks for a lost colony of Nietzscheans and discovers another crew that has been secretly helping them.(n)</desc>
+    <desc lang="en">The crew seeks for a lost colony of Nietzscheans and discovers another crew that has been secretly helping them.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
     <episode-num system="onscreen">S3</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028191500 +0000" stop="20241028200600 +0000" channel="ANDROMEDA">
+    <title lang="en">Andromeda: Day of Judgement, Day of Wrath</title>
+    <sub-title lang="en">Day of Judgement, Day of Wrath</sub-title>
+    <desc lang="en">The crew installs a new AI in a new Commonwealth battleship, and naturally things don't go as they should.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028200600 +0000" stop="20241028205700 +0000" channel="ANDROMEDA">
+    <title lang="en">Andromeda: Shadows Cast by a Final Salute</title>
+    <sub-title lang="en">Shadows Cast by a Final Salute</sub-title>
+    <desc lang="en">Tyr convinces the Nietzscheans that he is the reincarnation of Drago Museveni.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028205700 +0000" stop="20241028214800 +0000" channel="ANDROMEDA">
+    <title lang="en">Andromeda</title>
+    <sub-title lang="en">Answers Given to Questions Never Asked</sub-title>
+    <desc lang="en">A message from a collector sends Dylan on a quest to rescue a hostage and find the remains of the Commonwealth fleet.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028214800 +0000" stop="20241028223900 +0000" channel="ANDROMEDA">
+    <title lang="en">Andromeda: Pieces of Eight</title>
+    <sub-title lang="en">Pieces of Eight</sub-title>
+    <desc lang="en">Citizen Eight tries to remove Dylan from command of the Andromeda.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
+    <episode-num system="onscreen">S4 E2</episode-num>
     <rating>
       <value>9+</value>
     </rating>
@@ -2097,7 +2339,7 @@
   <programme start="20241028164133 +0000" stop="20241028170428 +0000" channel="JUDGE JUDY">
     <title lang="en">Judge Judy: Episode 13.132</title>
     <sub-title lang="en">Episode 13.132</sub-title>
-    <desc lang="en">Teen admits to inciting vandalism against aunt's boyfriend; blames schoolmates for egging his car/A 13-year-old denies giving friend unlimited iTunes access; father stuck with bill.(n)</desc>
+    <desc lang="en">Teen admits to inciting vandalism against aunt's boyfriend; blames schoolmates for egging his car/A 13-year-old denies giving friend unlimited iTunes access; father stuck with bill.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Courtroom Reality</category>
     <icon src="https://images.pluto.tv/episodes/6613b4ead90eb10013430468/poster.jpg" />
@@ -2109,7 +2351,7 @@
   <programme start="20241028170428 +0000" stop="20241028172727 +0000" channel="JUDGE JUDY">
     <title lang="en">Judge Judy: Episode 13.69</title>
     <sub-title lang="en">Episode 13.69</sub-title>
-    <desc lang="en">9-year-old explains spitball creation and alleges being bullied on school bus. Man denies romantic involvement with woman who bailed him out, claims other friends provided bail.(n)</desc>
+    <desc lang="en">9-year-old explains spitball creation and alleges being bullied on school bus. Man denies romantic involvement with woman who bailed him out, claims other friends provided bail.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Courtroom Reality</category>
     <icon src="https://images.pluto.tv/episodes/66029873e2d5640013408371/poster.jpg" />
@@ -2121,7 +2363,7 @@
   <programme start="20241028172727 +0000" stop="20241028175026 +0000" channel="JUDGE JUDY">
     <title lang="en">Judge Judy: Episode 13.202</title>
     <sub-title lang="en">Episode 13.202</sub-title>
-    <desc lang="en">Lesbian ex-lovers accuse each other of paint-ball vandalism and car\t\t\t\r\ndamage after a bitter break-up over alleged loans for clothes and a\t\t\t\r\nstereo.(n)</desc>
+    <desc lang="en">Lesbian ex-lovers accuse each other of paint-ball vandalism and car\t\t\t\r\ndamage after a bitter break-up over alleged loans for clothes and a\t\t\t\r\nstereo.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Courtroom Reality</category>
     <icon src="https://images.pluto.tv/episodes/66152afcb4334b0013cc2304/poster.jpg" />
@@ -2133,7 +2375,7 @@
   <programme start="20241028175026 +0000" stop="20241028181326 +0000" channel="JUDGE JUDY">
     <title lang="en">Judge Judy: Episode 13.219</title>
     <sub-title lang="en">Episode 13.219</sub-title>
-    <desc lang="en">A road rage incident leads to a man allegedly punching his teenage neighbor. A young man sues his child's mother for his electronic equipment and bedroom furniture.(n)</desc>
+    <desc lang="en">A road rage incident leads to a man allegedly punching his teenage neighbor. A young man sues his child's mother for his electronic equipment and bedroom furniture.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Courtroom Reality</category>
     <icon src="https://images.pluto.tv/episodes/66154e1f1ed2fc0013a63d76/poster.jpg" />
@@ -2145,7 +2387,7 @@
   <programme start="20241028181326 +0000" stop="20241028183726 +0000" channel="JUDGE JUDY">
     <title lang="en">Judge Judy: Episode 13.231</title>
     <sub-title lang="en">Episode 13.231</sub-title>
-    <desc lang="en">A brutal St. Patrick’s Day brawl between ex-lovers sparks a lawsuit. A woman initially denies identity theft accusations but prefers not to involve police in finding the 'real' culprit later.(n)</desc>
+    <desc lang="en">A brutal St. Patrick’s Day brawl between ex-lovers sparks a lawsuit. A woman initially denies identity theft accusations but prefers not to involve police in finding the 'real' culprit later.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Courtroom Reality</category>
     <icon src="https://images.pluto.tv/episodes/661660548b96a60013f34c7d/poster.jpg" />
@@ -2157,11 +2399,107 @@
   <programme start="20241028183726 +0000" stop="20241028190126 +0000" channel="JUDGE JUDY">
     <title lang="en">Judge Judy: Episode 13.17</title>
     <sub-title lang="en">Episode 13.17</sub-title>
-    <desc lang="en">Lying to the police about suicidal behavior, cheating with the babysitter, and feeding a gambling addiction are allegations estranged parents fight over and deny.(n)</desc>
+    <desc lang="en">Lying to the police about suicidal behavior, cheating with the babysitter, and feeding a gambling addiction are allegations estranged parents fight over and deny.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Courtroom Reality</category>
     <icon src="https://images.pluto.tv/episodes/65fc3bff6c2b0700139377a4/poster.jpg" />
     <episode-num system="onscreen">S13 E17</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190126 +0000" stop="20241028192426 +0000" channel="JUDGE JUDY">
+    <title lang="en">Judge Judy: Episode 13.214</title>
+    <sub-title lang="en">Episode 13.214</sub-title>
+    <desc lang="en">A man's parole is at risk due to possession charges. He's sued for jail calls and accused of selling fake jewelry. A man sues his niece's friend for allegedly damaging his car at a party.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Courtroom Reality</category>
+    <icon src="https://images.pluto.tv/episodes/66154b532fd04d0013e39a50/poster.jpg" />
+    <episode-num system="onscreen">S13 E214</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028192426 +0000" stop="20241028194725 +0000" channel="JUDGE JUDY">
+    <title lang="en">Judge Judy: Episode 13.155</title>
+    <sub-title lang="en">Episode 13.155</sub-title>
+    <desc lang="en">Man blames ex-girlfriend for loss of business, belongings, and child care. Ex-girlfriend accuses him of assault and theft. Woman tries to access ex-boyfriend's bank account for $5,000 surgery bill reimbursement.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Courtroom Reality</category>
+    <icon src="https://images.pluto.tv/episodes/6613ccc9a9f2d20013465e77/poster.jpg" />
+    <episode-num system="onscreen">S13 E155</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028194725 +0000" stop="20241028201022 +0000" channel="JUDGE JUDY">
+    <title lang="en">Judge Judy: Episode 13.42</title>
+    <sub-title lang="en">Episode 13.42</sub-title>
+    <desc lang="en">A 10-year-old boy allegedly shoots up his neighbor’s shed and trailer with a BB gun/A woman is sued for stopping payment on a cell phone she bought on eBay; she claims the phone only worked in Canada and that she was ripped off.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Courtroom Reality</category>
+    <icon src="https://images.pluto.tv/episodes/65fd5db098357300141b6d22/poster.jpg" />
+    <episode-num system="onscreen">S13 E42</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028201022 +0000" stop="20241028203322 +0000" channel="JUDGE JUDY">
+    <title lang="en">Judge Judy: Episode 13.60</title>
+    <sub-title lang="en">Episode 13.60</sub-title>
+    <desc lang="en">Labeled as a “sperm donor” instead of a father by the mother of his child, a man insists that he wants to be involved in his child’s life.\nThey fight over a loan to secure a home.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Courtroom Reality</category>
+    <icon src="https://images.pluto.tv/episodes/660fb80e1ed2fc001388b2eb/poster.jpg" />
+    <episode-num system="onscreen">S13</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028203322 +0000" stop="20241028205722 +0000" channel="JUDGE JUDY">
+    <title lang="en">Judge Judy: Episode 13.149</title>
+    <sub-title lang="en">Episode 13.149</sub-title>
+    <desc lang="en">Parents sue tattoo shop to remove underage daughter's tattoo. Woman sues ex for washer, dryer, and love seats; he claims they're even after she sold her engagement ring.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Courtroom Reality</category>
+    <icon src="https://images.pluto.tv/episodes/6613c9fa4da6e300137700ec/poster.jpg" />
+    <episode-num system="onscreen">S13 E149</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028205722 +0000" stop="20241028212022 +0000" channel="JUDGE JUDY">
+    <title lang="en">Judge Judy: Episode 13.104</title>
+    <sub-title lang="en">Episode 13.104</sub-title>
+    <desc lang="en">Woman accuses fiancé of infidelity while she's in hospital; accused of car vandalism/Woman sues ex-friend for selling fridge she loaned him.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Courtroom Reality</category>
+    <icon src="https://images.pluto.tv/episodes/66139cf90fb7c1001396afa1/poster.jpg" />
+    <episode-num system="onscreen">S13</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028212022 +0000" stop="20241028214322 +0000" channel="JUDGE JUDY">
+    <title lang="en">Judge Judy: Episode 13.195</title>
+    <sub-title lang="en">Episode 13.195</sub-title>
+    <desc lang="en">Slashed tires are the end result when feuding neighbors share adjacent parking spaces.\t\t\t\r\nFake diamond earrings, serious bouts of jealously, and dueling restraining orders come into play when ex-lovers fight over an unpaid loan.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Courtroom Reality</category>
+    <icon src="https://images.pluto.tv/episodes/66152830a7a31d0017148949/poster.jpg" />
+    <episode-num system="onscreen">S13 E195</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028214322 +0000" stop="20241028220621 +0000" channel="JUDGE JUDY">
+    <title lang="en">Judge Judy: Episode 13.106</title>
+    <sub-title lang="en">Episode 13.106</sub-title>
+    <desc lang="en">Former friend sues woman for car accidents and repossessions after buying car in his name/Pool party ends in fight over iPhone ruined when girl pushed into pool.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Courtroom Reality</category>
+    <icon src="https://images.pluto.tv/episodes/66139e610fb7c1001396b261/poster.jpg" />
+    <episode-num system="onscreen">S13</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -2397,7 +2735,7 @@
   <programme start="20241028165200 +0000" stop="20241028174400 +0000" channel="HELLS KITCHEN">
     <title lang="en">Hell's Kitchen USA</title>
     <sub-title lang="en">10 Chefs Compete (Part One)</sub-title>
-    <desc lang="en">Gordon Ramsay's gruelling chef challenge continues. The ten remaining chefs are challenged to create unique dishes with a limited number of ingredients.(n)</desc>
+    <desc lang="en">Gordon Ramsay's gruelling chef challenge continues. The ten remaining chefs are challenged to create unique dishes with a limited number of ingredients.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://images.pluto.tv/episodes/655620b505bcdf001a946bdc/poster.jpg" />
     <episode-num system="onscreen">S15 E8</episode-num>
@@ -2409,7 +2747,7 @@
   <programme start="20241028174400 +0000" stop="20241028183500 +0000" channel="HELLS KITCHEN">
     <title lang="en">Hell's Kitchen USA</title>
     <sub-title lang="en">10 Chefs Again</sub-title>
-    <desc lang="en">The contestants compete in a bison-dish challenge that tests their archery and cooking skills. Plus, it's cowboy steak night with special guests news commentator Stacey Dash and Olympic gold medallist Phil Dalhausser.(n)</desc>
+    <desc lang="en">The contestants compete in a bison-dish challenge that tests their archery and cooking skills. Plus, it's cowboy steak night with special guests news commentator Stacey Dash and Olympic gold medallist Phil Dalhausser.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://images.pluto.tv/episodes/66edce5fa0ed4700134a57d9/poster.jpg" />
     <episode-num system="onscreen">S15 E9</episode-num>
@@ -2421,10 +2759,46 @@
   <programme start="20241028183500 +0000" stop="20241028192700 +0000" channel="HELLS KITCHEN">
     <title lang="en">Hell's Kitchen USA</title>
     <sub-title lang="en">9 Chefs Compete</sub-title>
-    <desc lang="en">In the service challenge, VIP guests rapper Flo Rida and comic Jeff Dunham join the local chefs and their families. An angry Ramsay has to merge the teams to finish the service.(n)</desc>
+    <desc lang="en">In the service challenge, VIP guests rapper Flo Rida and comic Jeff Dunham join the local chefs and their families. An angry Ramsay has to merge the teams to finish the service.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://images.pluto.tv/episodes/655620b505bcdf001a946c1b/poster.jpg" />
     <episode-num system="onscreen">S15</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028192700 +0000" stop="20241028201800 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">8 Chefs Compete</sub-title>
+    <desc lang="en">The teams can only have one chef in the kitchen at a time as they prepare three entrees, each with a different protein.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/66edce60a0ed4700134a57fd/poster.jpg" />
+    <episode-num system="onscreen">S15 E11</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028201800 +0000" stop="20241028211000 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">7 Chefs Compete</sub-title>
+    <desc lang="en">The chefs must identify ice cream flavours in a blind taste test challenge; actress Meredith Baxter and Olympic swimmer Haley Anderson attend the dinner service.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/655620b605bcdf001a946c59/poster.jpg" />
+    <episode-num system="onscreen">S15 E12</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028211000 +0000" stop="20241028220100 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">6 Chefs Compete</sub-title>
+    <desc lang="en">The remaining six chefs receive visits from their families, but we find out what will happen when they are roped in to help with the day's challenge.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/66edce60a0ed4700134a5821/poster.jpg" />
+    <episode-num system="onscreen">S15 E13</episode-num>
     <premiere />
     <rating>
       <value>Not Rated</value>
@@ -2646,7 +3020,7 @@
   <programme start="20241028164100 +0000" stop="20241028173100 +0000" channel="UNDERCOVER BOSS GLOBAL">
     <title lang="en">Undercover Boss USA</title>
     <sub-title lang="en">Checkers &amp; Rallys Drive</sub-title>
-    <desc lang="en">Rick Silva became CEO of Checkers &amp; Rallys fast food restaurants five years ago, and immediately focused on growing the business at any cost. So he is going undercover to find even more ways to drive sales and please his guests.(n)</desc>
+    <desc lang="en">Rick Silva became CEO of Checkers &amp; Rallys fast food restaurants five years ago, and immediately focused on growing the business at any cost. So he is going undercover to find even more ways to drive sales and please his guests.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5f057cabb7598e001a747bfa/poster.jpg" />
@@ -2658,7 +3032,7 @@
   <programme start="20241028173100 +0000" stop="20241028182100 +0000" channel="UNDERCOVER BOSS GLOBAL">
     <title lang="en">Undercover Boss USA</title>
     <sub-title lang="en">Fastsigns</sub-title>
-    <desc lang="en">Catherine Monson is the driving force behind Fastsigns which is America’s largest custom sign franchise company. During her journey, Catherine finds out it’s really the personal discoveries that make this experience a life-changing one.(n)</desc>
+    <desc lang="en">Catherine Monson is the driving force behind Fastsigns which is America’s largest custom sign franchise company. During her journey, Catherine finds out it’s really the personal discoveries that make this experience a life-changing one.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5f1fd8f3e5fbdc0007262671/poster.jpg" />
@@ -2670,11 +3044,57 @@
   <programme start="20241028182100 +0000" stop="20241028191100 +0000" channel="UNDERCOVER BOSS GLOBAL">
     <title lang="en">Undercover Boss USA</title>
     <sub-title lang="en">The Dwyer Group</sub-title>
-    <desc lang="en">Dina Dwyer-Owens, the Chairwoman and CEO of The Dwyer Group, which is the parent company to a collection of franchise brands specializing in home and vehicle maintenance,  goes undercover posing as a contestant on a show called Keep Your Day Job.(n)</desc>
+    <desc lang="en">Dina Dwyer-Owens, the Chairwoman and CEO of The Dwyer Group, which is the parent company to a collection of franchise brands specializing in home and vehicle maintenance,  goes undercover posing as a contestant on a show called Keep Your Day Job.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5f057cabb7598e001a747bf5/poster.jpg" />
     <episode-num system="onscreen">S3 E2</episode-num>
+    <rating>
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme start="20241028191100 +0000" stop="20241028200100 +0000" channel="UNDERCOVER BOSS GLOBAL">
+    <title lang="en">Undercover Boss USA</title>
+    <sub-title lang="en">Diamond Resorts International</sub-title>
+    <desc lang="en">Stephen J. Cloobeck, the Chairman and CEO of Diamond Resorts International, is going undercover as a man pursuing his dream job in the hospitality industry.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5f057cabb7598e001a747be1/poster.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating>
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme start="20241028200100 +0000" stop="20241028205400 +0000" channel="UNDERCOVER BOSS GLOBAL">
+    <title lang="en">Undercover Boss Canada</title>
+    <sub-title lang="en">Toronto Zoo</sub-title>
+    <desc lang="en">CEO John Tracogna goes undercover at Canada’s largest zoo to get up close and personal with endangered wildlife and the people that keep the organization running.(n)</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://images.pluto.tv/episodes/5ee74ffcb96908001a4db6bd/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme start="20241028205400 +0000" stop="20241028214700 +0000" channel="UNDERCOVER BOSS GLOBAL">
+    <title lang="en">Undercover Boss Canada</title>
+    <sub-title lang="en">Canlan Ice Sports</sub-title>
+    <desc lang="en">Canlan Ice Sports Corp is the largest private owner of sports facilities in North America. CEO Joey St Aubin admits their prices are higher than local municipal rinks, but believes his company offers a premium service and better ice quality.(n)</desc>
+    <category lang="en">Documentary</category>
+    <icon src="https://images.pluto.tv/episodes/5ee75008b96908001a4db7cc/poster.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating>
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme start="20241028214700 +0000" stop="20241028223700 +0000" channel="UNDERCOVER BOSS GLOBAL">
+    <title lang="en">Undercover Boss USA</title>
+    <sub-title lang="en">Kendall-Jackson Wine Estates</sub-title>
+    <desc lang="en">Rick Tigner, the president of Kendall-Jackson Wine Estates, the second largest family owned wine company in the world, goes undercover posing as a grocery store employee who is pursuing his dream job in the wine industry.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5f057cabb7598e001a747beb/poster.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
     <rating>
       <value>All</value>
     </rating>
@@ -3122,7 +3542,7 @@
   </programme>
   <programme start="20241028163037 +0000" stop="20241028170037 +0000" channel="OPERATION REPO">
     <title lang="en">Operation Repo starts 9pm</title>
-    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!(n)</desc>
+    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/66cee9e1f0f1750008364f6e/poster.jpg" />
@@ -3133,7 +3553,7 @@
   </programme>
   <programme start="20241028170037 +0000" stop="20241028173037 +0000" channel="OPERATION REPO">
     <title lang="en">Operation Repo starts 9pm</title>
-    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!(n)</desc>
+    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/66cee9e1f0f1750008364f6e/poster.jpg" />
@@ -3144,7 +3564,7 @@
   </programme>
   <programme start="20241028173037 +0000" stop="20241028180037 +0000" channel="OPERATION REPO">
     <title lang="en">Operation Repo starts 9pm</title>
-    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!(n)</desc>
+    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/66cee9e1f0f1750008364f6e/poster.jpg" />
@@ -3155,7 +3575,7 @@
   </programme>
   <programme start="20241028180037 +0000" stop="20241028183037 +0000" channel="OPERATION REPO">
     <title lang="en">Operation Repo starts 9pm</title>
-    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!(n)</desc>
+    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/66cee9e1f0f1750008364f6e/poster.jpg" />
@@ -3166,6 +3586,17 @@
   </programme>
   <programme start="20241028183037 +0000" stop="20241028190037 +0000" channel="OPERATION REPO">
     <title lang="en">Operation Repo starts 9pm</title>
+    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Occupational Reality</category>
+    <icon src="https://images.pluto.tv/episodes/66cee9e1f0f1750008364f6e/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028190037 +0000" stop="20241028193037 +0000" channel="OPERATION REPO">
+    <title lang="en">Operation Repo starts 9pm</title>
     <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!(n)</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
@@ -3173,6 +3604,75 @@
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028193037 +0000" stop="20241028200037 +0000" channel="OPERATION REPO">
+    <title lang="en">Operation Repo starts 9pm</title>
+    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Occupational Reality</category>
+    <icon src="https://images.pluto.tv/episodes/66cee9e1f0f1750008364f6e/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028200037 +0000" stop="20241028203037 +0000" channel="OPERATION REPO">
+    <title lang="en">Operation Repo starts 9pm</title>
+    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Occupational Reality</category>
+    <icon src="https://images.pluto.tv/episodes/66cee9e1f0f1750008364f6e/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028203037 +0000" stop="20241028210037 +0000" channel="OPERATION REPO">
+    <title lang="en">Operation Repo starts 9pm</title>
+    <desc lang="en">STARTS 9PM Take a ride along with Operation Repo! This docudrama series takes an in-depth look at the professional, but sometimes murky world of car repossession. Get ready for the drama!(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Occupational Reality</category>
+    <icon src="https://images.pluto.tv/episodes/66cee9e1f0f1750008364f6e/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028210037 +0000" stop="20241028212628 +0000" channel="OPERATION REPO">
+    <title lang="en">Operation Repo: Flame-Thrown for a Loop</title>
+    <sub-title lang="en">Flame-Thrown for a Loop</sub-title>
+    <desc lang="en">Lou struggles to pick up the pieces after the accident leaves him needing Sonia more than ever. Lou and Carlos deal with a big man in a tiny car, but when Carlos lets his guard down he's delivered some serious blows.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/655dd0b82f9f5b0013f8aaaf/poster.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating>
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20241028212628 +0000" stop="20241028215219 +0000" channel="OPERATION REPO">
+    <title lang="en">Operation Repo: Probation Abomination</title>
+    <sub-title lang="en">Probation Abomination</sub-title>
+    <desc lang="en">Sonia returns, but not before putting the team on probation and laying some ground rules.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/655dd0bb2f9f5b0013f8ac67/poster.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+    <rating>
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20241028215219 +0000" stop="20241028221810 +0000" channel="OPERATION REPO">
+    <title lang="en">Operation Repo: Russian Roulette</title>
+    <sub-title lang="en">Russian Roulette</sub-title>
+    <desc lang="en">Matt and Sonia take on an award-winning fencing coach, but all bets are off when his students go on the offensive with real swords.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/655dd0c02f9f5b0013f8afba/poster.jpg" />
+    <episode-num system="onscreen">E17</episode-num>
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
   <programme start="20241028001945 +0000" stop="20241028004524 +0000" channel="RULES OF ENGAGEMENT">
@@ -3646,7 +4146,7 @@
   <programme start="20241028165421 +0000" stop="20241028172002 +0000" channel="RULES OF ENGAGEMENT">
     <title lang="en">Rules of Engagement: Role Play</title>
     <sub-title lang="en">Role Play</sub-title>
-    <desc lang="en">Jeff promises to take Audrey to an upmarket and very popular restaurant but forgets to book a table. Determined to dine there, he hatches a plan to get in by claiming that a last-minute reservation is needed for a celebrity.(n)</desc>
+    <desc lang="en">Jeff promises to take Audrey to an upmarket and very popular restaurant but forgets to book a table. Determined to dine there, he hatches a plan to get in by claiming that a last-minute reservation is needed for a celebrity.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Screwball</category>
     <icon src="https://images.pluto.tv/episodes/664b68ac11239700141432e7/poster.jpg" />
@@ -3658,7 +4158,7 @@
   <programme start="20241028172002 +0000" stop="20241028174438 +0000" channel="RULES OF ENGAGEMENT">
     <title lang="en">Rules of Engagement: Catering</title>
     <sub-title lang="en">Catering</sub-title>
-    <desc lang="en">Brenda enlists Jeff and Audrey's help when she does the catering for an event at Columbia University. While waitressing, Audrey tries to fit in with the guests, only to discover that they are more impressed with Jeff's bartending skills.(n)</desc>
+    <desc lang="en">Brenda enlists Jeff and Audrey's help when she does the catering for an event at Columbia University. While waitressing, Audrey tries to fit in with the guests, only to discover that they are more impressed with Jeff's bartending skills.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Screwball</category>
     <icon src="https://images.pluto.tv/episodes/664b68b011239700141433a2/poster.jpg" />
@@ -3670,7 +4170,7 @@
   <programme start="20241028174438 +0000" stop="20241028180959 +0000" channel="RULES OF ENGAGEMENT">
     <title lang="en">Rules of Engagement: Cooking Class</title>
     <sub-title lang="en">Cooking Class</sub-title>
-    <desc lang="en">The couples attempt to enjoy recreational cooking classes together, but Jeff and Adam can't keep their competitive nature out of the kitchen.  Russell doesn't notice how disturbingly similar his new girlfriend is to Timmy.(n)</desc>
+    <desc lang="en">The couples attempt to enjoy recreational cooking classes together, but Jeff and Adam can't keep their competitive nature out of the kitchen.  Russell doesn't notice how disturbingly similar his new girlfriend is to Timmy.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Screwball</category>
     <icon src="https://images.pluto.tv/episodes/664b68a01123970014142f1d/poster.jpg" />
@@ -3682,7 +4182,7 @@
   <programme start="20241028180959 +0000" stop="20241028183538 +0000" channel="RULES OF ENGAGEMENT">
     <title lang="en">Rules of Engagement: Unpleasant Surprises</title>
     <sub-title lang="en">Unpleasant Surprises</sub-title>
-    <desc lang="en">When Jennifer learns that the guys have nothing planned for Adam's last weekend as a bachelor, she plans a party weekend.  Things don't go as planned, however, so Jeff, Russell, and Timmy must improvise.(n)</desc>
+    <desc lang="en">When Jennifer learns that the guys have nothing planned for Adam's last weekend as a bachelor, she plans a party weekend.  Things don't go as planned, however, so Jeff, Russell, and Timmy must improvise.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Screwball</category>
     <icon src="https://images.pluto.tv/episodes/664b688311239700141426dd/poster.jpg" />
@@ -3694,11 +4194,107 @@
   <programme start="20241028183538 +0000" stop="20241028190036 +0000" channel="RULES OF ENGAGEMENT">
     <title lang="en">Rules of Engagement: Timmy Quits</title>
     <sub-title lang="en">Timmy Quits</sub-title>
-    <desc lang="en">Audrey has always had suspicions that Jeff's old college friend Heidi harbours romantic feelings for him, so Jeff invites Heidi over to prove that this was never the case.(n)</desc>
+    <desc lang="en">Audrey has always had suspicions that Jeff's old college friend Heidi harbours romantic feelings for him, so Jeff invites Heidi over to prove that this was never the case.</desc>
     <category lang="en">Comedy</category>
     <category lang="en">Screwball</category>
     <icon src="https://images.pluto.tv/episodes/664b68a31123970014143012/poster.jpg" />
     <episode-num system="onscreen">S7 E11</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190036 +0000" stop="20241028192531 +0000" channel="RULES OF ENGAGEMENT">
+    <title lang="en">Rules of Engagement: A Wee Problem</title>
+    <sub-title lang="en">A Wee Problem</sub-title>
+    <desc lang="en">Jeff does his best to make a heavily pregnant Brenda laugh when he discovers that she has a `wee problem' due to her condition, but his antics cause her waters to break. Meanwhile, Adam annoys Audrey with his non-stop chatter during a spa visit.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Screwball</category>
+    <icon src="https://images.pluto.tv/episodes/664b68961123970014142c7e/poster.jpg" />
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028192531 +0000" stop="20241028195110 +0000" channel="RULES OF ENGAGEMENT">
+    <title lang="en">Rules of Engagement: 100th</title>
+    <sub-title lang="en">100th</sub-title>
+    <desc lang="en">Brenda goes into labor on Jen and Adam's wedding day, but Jeff has reservations about being in the delivery room. Adam persuades Jen to make some alternative arrangements for their marriage ceremony.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Screwball</category>
+    <icon src="https://images.pluto.tv/episodes/664b68991123970014142d3d/poster.jpg" />
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028195110 +0000" stop="20241028201650 +0000" channel="RULES OF ENGAGEMENT">
+    <title lang="en">Rules of Engagement: Rules of Engagement: Pilot</title>
+    <sub-title lang="en">Rules of Engagement: Pilot</sub-title>
+    <desc lang="en">Adam and Jennifer are a 20-something couple who have gotten engaged and moving in together after just seven months of dating. Meanwhile, their neighbors Jeff and Audrey who have been married for twelve years try to set a good example.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Screwball</category>
+    <icon src="https://images.pluto.tv/episodes/664b693c1123970014145c9f/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028201650 +0000" stop="20241028204228 +0000" channel="RULES OF ENGAGEMENT">
+    <title lang="en">Rules of Engagement: The Birthday Deal</title>
+    <sub-title lang="en">The Birthday Deal</sub-title>
+    <desc lang="en">Though he's unhappy that Audrey spent more than usual for his birthday party, Jeff wants to stay on her good side to ensure he gets his yearly birthday deal. Though Jeff won't reveal the 'deal.'.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Screwball</category>
+    <icon src="https://images.pluto.tv/episodes/664b69481123970014145ff9/poster.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028204228 +0000" stop="20241028210808 +0000" channel="RULES OF ENGAGEMENT">
+    <title lang="en">Rules of Engagement: The Young and the Restless</title>
+    <sub-title lang="en">The Young and the Restless</sub-title>
+    <desc lang="en">After Adam has too many restless nights sleeping in Jennifer’s small bed, he brings home the bed he shared with his ex-girlfriend which causes a fight and leads them tossing out all memories of past relationships.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Screwball</category>
+    <icon src="https://images.pluto.tv/episodes/664b69451123970014145f3e/poster.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028210808 +0000" stop="20241028213311 +0000" channel="RULES OF ENGAGEMENT">
+    <title lang="en">Rules of Engagement: Hard Day's Night</title>
+    <sub-title lang="en">Hard Day's Night</sub-title>
+    <desc lang="en">Jennifer tries to help Jeff’s sore neck with a massage until the situation between them becomes uncomfortable and upsets Audrey. Meanwhile, Russell brings Adam along to help him fight off a school yard bully so Russell can get close to the teacher.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Screwball</category>
+    <icon src="https://images.pluto.tv/episodes/664b694f11239700141461da/poster.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028213311 +0000" stop="20241028215848 +0000" channel="RULES OF ENGAGEMENT">
+    <title lang="en">Rules of Engagement: Kids</title>
+    <sub-title lang="en">Kids</sub-title>
+    <desc lang="en">Adam and Jennifer’s plans for a romantic weekend fall apart after they argue about their different feelings toward careers, finances, and kids. Meanwhile, Audrey is having second thoughts about why she and Jeff have waited so long to have children.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Screwball</category>
+    <icon src="https://images.pluto.tv/episodes/664b69421123970014145e4d/poster.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028215848 +0000" stop="20241028222426 +0000" channel="RULES OF ENGAGEMENT">
+    <title lang="en">Rules of Engagement: Game on</title>
+    <sub-title lang="en">Game on</sub-title>
+    <desc lang="en">After Adam buys an expensive video-game console, Jennifer makes him promise to discuss major purchases first, but Russell interferes and makes Adam question the agreement.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Screwball</category>
+    <icon src="https://images.pluto.tv/episodes/664b69381123970014145bae/poster.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -4090,7 +4686,7 @@
   <programme start="20241028165145 +0000" stop="20241028171615 +0000" channel="DOG THE BOUNTY HUNTER">
     <title lang="en">Dog The Bounty Hunter: Island Hopper</title>
     <sub-title lang="en">Island Hopper</sub-title>
-    <desc lang="en">When a brother bondsman from Washington State calls Dog for help tracking a runner in search of fun in the sun on the tropical paradise of Kauai, the team gets on the case. Dog's only problem? No leads!(n)</desc>
+    <desc lang="en">When a brother bondsman from Washington State calls Dog for help tracking a runner in search of fun in the sun on the tropical paradise of Kauai, the team gets on the case. Dog's only problem? No leads!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/5bcb7c38b9d44aaea5d93e16/poster.jpg" />
@@ -4102,7 +4698,7 @@
   <programme start="20241028171615 +0000" stop="20241028174200 +0000" channel="DOG THE BOUNTY HUNTER">
     <title lang="en">Dog The Bounty Hunter: Nice Guys Finish Last</title>
     <sub-title lang="en">Nice Guys Finish Last</sub-title>
-    <desc lang="en">Dog and team help out a bondsman friend whose client jumped bail, but the target is a blank slate. Are his tattoos gang related? Is he likely to be violent? And making matters worse, when they hit his apartment they learn he is moving out.(n)</desc>
+    <desc lang="en">Dog and team help out a bondsman friend whose client jumped bail, but the target is a blank slate. Are his tattoos gang related? Is he likely to be violent? And making matters worse, when they hit his apartment they learn he is moving out.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/5bca085694b2dea385077f0a/poster.jpg" />
@@ -4114,7 +4710,7 @@
   <programme start="20241028174200 +0000" stop="20241028180745 +0000" channel="DOG THE BOUNTY HUNTER">
     <title lang="en">Dog The Bounty Hunter: Back Behind Bars</title>
     <sub-title lang="en">Back Behind Bars</sub-title>
-    <desc lang="en">While tracking down a potentially dangerous ex-con facing a five year stretch in the big house, Leland struggles to find time to train and compete for his first boxing match in years.(n)</desc>
+    <desc lang="en">While tracking down a potentially dangerous ex-con facing a five year stretch in the big house, Leland struggles to find time to train and compete for his first boxing match in years.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/5bca084b2a7a82a3ec064031/poster.jpg" />
@@ -4126,7 +4722,7 @@
   <programme start="20241028180745 +0000" stop="20241028183330 +0000" channel="DOG THE BOUNTY HUNTER">
     <title lang="en">Dog The Bounty Hunter: Family Man</title>
     <sub-title lang="en">Family Man</sub-title>
-    <desc lang="en">Dog and family head to Kona to track down a wanted father who's looking to bolt to the mainland to evade sentencing.  Meanwhile, Dog does some evading of his own - Avoiding the much dreaded birthday party!(n)</desc>
+    <desc lang="en">Dog and family head to Kona to track down a wanted father who's looking to bolt to the mainland to evade sentencing.  Meanwhile, Dog does some evading of his own - Avoiding the much dreaded birthday party!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/5bca08a3d918ffa083339645/poster.jpg" />
@@ -4138,7 +4734,7 @@
   <programme start="20241028183330 +0000" stop="20241028185915 +0000" channel="DOG THE BOUNTY HUNTER">
     <title lang="en">Dog The Bounty Hunter: All in the Family</title>
     <sub-title lang="en">All in the Family</sub-title>
-    <desc lang="en">Dog and the team need to help Leland hunt down some elusive fugitives. The case is a family affair with both mother and daughter in trouble with the law.(n)</desc>
+    <desc lang="en">Dog and the team need to help Leland hunt down some elusive fugitives. The case is a family affair with both mother and daughter in trouble with the law.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/5bca089048ec46a2913b1ab8/poster.jpg" />
@@ -4150,11 +4746,47 @@
   <programme start="20241028185915 +0000" stop="20241028195315 +0000" channel="DOG THE BOUNTY HUNTER">
     <title lang="en">Dog The Bounty Hunter: Mother Courage</title>
     <sub-title lang="en">Mother Courage</sub-title>
-    <desc lang="en">Dog knows that crime and drugs not only damage victims but also harm the families of the perpetrators, especially the kids. And both of the fugitives he's chasing today have left shattered families and struggling women in their wake.(n)</desc>
+    <desc lang="en">Dog knows that crime and drugs not only damage victims but also harm the families of the perpetrators, especially the kids. And both of the fugitives he's chasing today have left shattered families and struggling women in their wake.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Occupational Reality</category>
     <icon src="https://images.pluto.tv/episodes/5bca0a780274bea2e52ce670/poster.jpg" />
     <episode-num system="onscreen">S6 E13</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028195315 +0000" stop="20241028204615 +0000" channel="DOG THE BOUNTY HUNTER">
+    <title lang="en">Dog The Bounty Hunter: Bounty Boot Camp</title>
+    <sub-title lang="en">Bounty Boot Camp</sub-title>
+    <desc lang="en">Jim is a bondsman and longtime friend of Dog. Jim's son has just started in the family business. Today, Jim has asked Dog to track down a potentially dangerous fugitive, and take his son along for some training with the best in the world.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Occupational Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5bca0a5b48ec46a2913b1ad2/poster.jpg" />
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028204615 +0000" stop="20241028214015 +0000" channel="DOG THE BOUNTY HUNTER">
+    <title lang="en">Dog The Bounty Hunter: Friends and Neighbors</title>
+    <sub-title lang="en">Friends and Neighbors</sub-title>
+    <desc lang="en">Dog and his posse head to Colorado for a special mission, to catch Marco, an alleged drug dealer. It's been ten months since Marco went on the lam, and his bondsman stands to lose his family business if Marco is not caught.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Occupational Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5bca0a2ec65bbb9f3028201c/poster.jpg" />
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028214015 +0000" stop="20241028223315 +0000" channel="DOG THE BOUNTY HUNTER">
+    <title lang="en">Dog The Bounty Hunter: The Set-Up</title>
+    <sub-title lang="en">The Set-Up</sub-title>
+    <desc lang="en">The trail is hot and the stakes is high for Dog and the posse. The "Big Fish" in this case is Marco, an alleged drug dealer with a big bond. But a major key to catching him is Elizabeth, who is also a fugitive from the law.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Occupational Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5bca0a6e2a7a82a3ec06404b/poster.jpg" />
+    <episode-num system="onscreen">S6 E16</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -4594,7 +5226,7 @@
   <programme start="20241028163400 +0000" stop="20241028165800 +0000" channel="DUCK DYNASTY">
     <title lang="en">Duck Dynasty: Quack-O-Lantern</title>
     <sub-title lang="en">Quack-O-Lantern</sub-title>
-    <desc lang="en">The Robertsons host a Halloween event at Duck Commander, where they all come together to transform the warehouse into a "scarehouse." Everyone dresses up and Willie desperately tries to be the scariest, but none of the kids are afraid of him.(n)</desc>
+    <desc lang="en">The Robertsons host a Halloween event at Duck Commander, where they all come together to transform the warehouse into a "scarehouse." Everyone dresses up and Willie desperately tries to be the scariest, but none of the kids are afraid of him.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5c49f4bd8f016c89a498563a/poster.jpg" />
@@ -4606,7 +5238,7 @@
   <programme start="20241028165800 +0000" stop="20241028174700 +0000" channel="DUCK DYNASTY">
     <title lang="en">Duck Dynasty: O Little Town of West Monroe</title>
     <sub-title lang="en">O Little Town of West Monroe</sub-title>
-    <desc lang="en">The Robertsons perform a live nativity for their Church for Christmas, so the wives organize rehearsals to ensure that they pull off a great event. However, rehearsals get off to a bumpy start as the guys can't stop sharing their opinions.(n)</desc>
+    <desc lang="en">The Robertsons perform a live nativity for their Church for Christmas, so the wives organize rehearsals to ensure that they pull off a great event. However, rehearsals get off to a bumpy start as the guys can't stop sharing their opinions.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5c50f154ce9765c17b73a5ca/poster.jpg" />
@@ -4618,7 +5250,7 @@
   <programme start="20241028174700 +0000" stop="20241028181100 +0000" channel="DUCK DYNASTY">
     <title lang="en">Duck Dynasty: Boomerang Becca</title>
     <sub-title lang="en">Boomerang Becca</sub-title>
-    <desc lang="en">When Rebecca returns home from her internship in Los Angeles, the Robertson family plans a big surprise party to welcome her back. Meanwhile, when Uncle Si gets sick, he seeks the help of Ms. Kay to take care of him.(n)</desc>
+    <desc lang="en">When Rebecca returns home from her internship in Los Angeles, the Robertson family plans a big surprise party to welcome her back. Meanwhile, when Uncle Si gets sick, he seeks the help of Ms. Kay to take care of him.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5c49f4d3ef5b87891f880acc/poster.jpg" />
@@ -4630,7 +5262,7 @@
   <programme start="20241028181100 +0000" stop="20241028183500 +0000" channel="DUCK DYNASTY">
     <title lang="en">Duck Dynasty: Willie's Number Two</title>
     <sub-title lang="en">Willie's Number Two</sub-title>
-    <desc lang="en">When Willie is looking to hire a new assistant, Korie insists he interviews her cousin, JD. Meanwhile, when Uncle Si spends the day over at Phil and Kay's, Jep stops by with the kids to keep them away from Jessica, who has taken ill.(n)</desc>
+    <desc lang="en">When Willie is looking to hire a new assistant, Korie insists he interviews her cousin, JD. Meanwhile, when Uncle Si spends the day over at Phil and Kay's, Jep stops by with the kids to keep them away from Jessica, who has taken ill.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5c49f486a060d3878fd2891e/poster.jpg" />
@@ -4642,7 +5274,7 @@
   <programme start="20241028183500 +0000" stop="20241028185900 +0000" channel="DUCK DYNASTY">
     <title lang="en">Duck Dynasty: Life of Si</title>
     <sub-title lang="en">Life of Si</sub-title>
-    <desc lang="en">After seeing footage Jep shot using a GoPro, Si decides he wants to use the camera to record a day in his life. But when Si gets on the guys nerves while they're hunting, they kick him and his GoPros out of the blind.(n)</desc>
+    <desc lang="en">After seeing footage Jep shot using a GoPro, Si decides he wants to use the camera to record a day in his life. But when Si gets on the guys nerves while they're hunting, they kick him and his GoPros out of the blind.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5c49f45efc0543846fb1a14f/poster.jpg" />
@@ -4654,11 +5286,83 @@
   <programme start="20241028185900 +0000" stop="20241028192300 +0000" channel="DUCK DYNASTY">
     <title lang="en">Duck Dynasty: From Duck 'til Dawn</title>
     <sub-title lang="en">From Duck 'til Dawn</sub-title>
-    <desc lang="en">When the duck guys have to pull an all-nighter to finish some work, Willie decides he wants to join them. But when a dying smoke detector distracts them from their work, Jase and Willie head off to disarm it.(n)</desc>
+    <desc lang="en">When the duck guys have to pull an all-nighter to finish some work, Willie decides he wants to join them. But when a dying smoke detector distracts them from their work, Jase and Willie head off to disarm it.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5c49f470ef5b87891f880ac0/poster.jpg" />
     <episode-num system="onscreen">S5 E4</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028192300 +0000" stop="20241028194700 +0000" channel="DUCK DYNASTY">
+    <title lang="en">Duck Dynasty: Burger Commander</title>
+    <sub-title lang="en">Burger Commander</sub-title>
+    <desc lang="en">After visiting a popular burger restaurant, Willie and Jase get into a debate over which of them cooks the best burger, prompting them to challenge one another to a cooking contest.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5c49f4ab543b82875f413d2c/poster.jpg" />
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028194700 +0000" stop="20241028201100 +0000" channel="DUCK DYNASTY">
+    <title lang="en">Duck Dynasty: G.I. Si</title>
+    <sub-title lang="en">G.I. Si</sub-title>
+    <desc lang="en">When Willie and Jase argue over an old G.I. Joe toy, it leads them into a debate over who would make a better soldier. To settle the score, Willie and Jase head out to the woods with their friends and children for a paintball match.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5c49f47498c60f82a1c841e7/poster.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028201100 +0000" stop="20241028203500 +0000" channel="DUCK DYNASTY">
+    <title lang="en">Duck Dynasty: Jase and the Argonauts</title>
+    <sub-title lang="en">Jase and the Argonauts</sub-title>
+    <desc lang="en">When Willie gets a soft serve machine for himself, he tells the guys they can't use it until they're done working. But when Jase thinks this is unfair, he takes matters into his own hands and finds a better object to use as motivation.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5c49f4555688438bae7b3d6e/poster.jpg" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028203500 +0000" stop="20241028205900 +0000" channel="DUCK DYNASTY">
+    <title lang="en">Duck Dynasty: Fowl Playhouse</title>
+    <sub-title lang="en">Fowl Playhouse</sub-title>
+    <desc lang="en">When Jase finds out Jep is planning to buy his kids a fancy playhouse from a catalogue, he and the guys decide to build one for Jep themselves. But the playhouse ends up looking more like a military-style duck blind.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5c49f49bc7fc508b4c827d2d/poster.jpg" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028205900 +0000" stop="20241028212300 +0000" channel="DUCK DYNASTY">
+    <title lang="en">Duck Dynasty: The Big LeCOWski</title>
+    <sub-title lang="en">The Big LeCOWski</sub-title>
+    <desc lang="en">When Sadie spends the day at Duck Commander for a school project, the guys try to show her the ins-and-outs of how a successful company works. But when Willie questions Jase's ingenuity in creating new products they get into a debate.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5c49f4c0fc0543846fb1a167/poster.jpg" />
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028212300 +0000" stop="20241028221100 +0000" channel="DUCK DYNASTY">
+    <title lang="en">Duck Dynasty: Duck Dynasty</title>
+    <sub-title lang="en">Duck Dynasty</sub-title>
+    <desc lang="en">The Robertson family pulls together a family reunion to give Mia a big send-off before her surgery.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5c50f1a39e4a57c65f1c0c44/poster.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
     <rating>
       <value>9+</value>
     </rating>
@@ -4769,13 +5473,35 @@
   <programme start="20241028171809 +0000" stop="20241028190709 +0000" channel="PLUTO TV SCI FI">
     <title lang="en">Frank Herbert's Dune: Episode 3</title>
     <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Paul Atreides, who has become known as Paul Muad'Dib, leads a rebellion against the Harkonnen, who have the secret support of the emperor.(n)</desc>
+    <desc lang="en">Paul Atreides, who has become known as Paul Muad'Dib, leads a rebellion against the Harkonnen, who have the secret support of the emperor.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Sci-Fi Cult Classics</category>
     <icon src="https://images.pluto.tv/episodes/645a30285348f4001a1d4b9b/poster.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating>
       <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190709 +0000" stop="20241028210209 +0000" channel="PLUTO TV SCI FI">
+    <title lang="en">Battle Beyond The Stars</title>
+    <desc lang="en">A young farmer sets out to recruit mercenaries to defend his peaceful planet, which is under threat of invasion by the evil tyrant Sador and his armada of aggressors. Starring: George Peppard, Robert Vaughn, Richard Thomas.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Sci-Fi Adventure</category>
+    <icon src="https://images.pluto.tv/episodes/5d3a6039625f2edd327f9a0d/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028210209 +0000" stop="20241028225009 +0000" channel="PLUTO TV SCI FI">
+    <title lang="en">Scorched Earth</title>
+    <desc lang="en">A bounty hunter named Attica Gage tracks down criminals in a post-apocalyptic Earth. Starring: Gina Carano, Ryan Robbins, John Hannah.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/5e74932e93312100076f9352/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
   <programme start="20241028005723 +0000" stop="20241028030530 +0000" channel="PLUTO MOVIES">
@@ -4876,13 +5602,35 @@
   </programme>
   <programme start="20241028171549 +0000" stop="20241028190849 +0000" channel="PLUTO MOVIES">
     <title lang="en">The Cobbler</title>
-    <desc lang="en">A cobbler, bored of his everyday life, stumbles upon a magical heirloom that allows him to become other people and see the world in a different way.(n)</desc>
+    <desc lang="en">A cobbler, bored of his everyday life, stumbles upon a magical heirloom that allows him to become other people and see the world in a different way.</desc>
     <category lang="en">Drama</category>
     <category lang="en">Dramedy</category>
     <icon src="https://images.pluto.tv/episodes/6368c64192944d00147ca92b/poster.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190849 +0000" stop="20241028210000 +0000" channel="PLUTO MOVIES">
+    <title lang="en">George And The Dragon</title>
+    <desc lang="en">A knight (James Purefoy, "Rome") returning from the Crusades takes on a dragon after the disappearance of the kindly Princess Lunna (Piper Perabo, "Coyote Ugly"). With Patrick Swayze.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Adventures</category>
+    <icon src="https://images.pluto.tv/episodes/5cf8195b27b1e499de6124b8/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028210000 +0000" stop="20241028230807 +0000" channel="PLUTO MOVIES">
+    <title lang="en">Automata</title>
+    <desc lang="en">Jacq Vaucan (Antonio Banderas, 'The Mask of Zorro') is an insurance agent of ROC robotics corporation who investigates cases of robots violating their primary protocols against altering themselves.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/667a7a6d6a05100013d9ee5f/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
   <programme start="20241028002735 +0000" stop="20241028023215 +0000" channel="PLUTO TV ACTION">
@@ -4987,13 +5735,35 @@
   </programme>
   <programme start="20241028165815 +0000" stop="20241028190615 +0000" channel="PLUTO TV ACTION">
     <title lang="en">Dragon Warriors</title>
-    <desc lang="en">An evil wizard, Lord Tensley, seeks the hand and heart of the beautiful princess. When she refuses, he locks her away and releases a deadly dragon to terrorize the land. Starring: James Marsters, Kaitlin Doubleday, Luke Perry.(n)</desc>
+    <desc lang="en">An evil wizard, Lord Tensley, seeks the hand and heart of the beautiful princess. When she refuses, he locks her away and releases a deadly dragon to terrorize the land. Starring: James Marsters, Kaitlin Doubleday, Luke Perry.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/5ba1fd9976b8cadd30e811fa/poster.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190615 +0000" stop="20241028210215 +0000" channel="PLUTO TV ACTION">
+    <title lang="en">16 Blocks</title>
+    <desc lang="en">From director of action blockbuster Lethal Weapon, Richard Donner. Personal demons put cop Jack (Bruce Willis - Die Hard) at rock bottom but he wasn’t about to let a witness be murdered on his watch.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Adventures</category>
+    <icon src="https://images.pluto.tv/episodes/61b08ddec323f20013e6a361/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028210215 +0000" stop="20241028230655 +0000" channel="PLUTO TV ACTION">
+    <title lang="en">Chaos</title>
+    <desc lang="en">A brilliant thief has masterminded a series of high-stake bank heists, and for two detectives, the only hope for survival is finding an order to the chaos.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Heist Films</category>
+    <icon src="https://images.pluto.tv/episodes/5e4f3fd6fe1a6f001a7ae305/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
   <programme start="20241028012957 +0000" stop="20241028030557 +0000" channel="PLUTO TV CHRISTMAS IN SUMMER">
@@ -5108,13 +5878,35 @@
   </programme>
   <programme start="20241028173700 +0000" stop="20241028191652 +0000" channel="PLUTO TV CHRISTMAS IN SUMMER">
     <title lang="en">Sound Of Christmas</title>
-    <desc lang="en">Whilst trying to reignite his daughter’s passion for Christmas, Brad, falls in love with piano teacher, Lizzie. However, their romance is threatened by Brad’s business interests.(n)</desc>
+    <desc lang="en">Whilst trying to reignite his daughter’s passion for Christmas, Brad, falls in love with piano teacher, Lizzie. However, their romance is threatened by Brad’s business interests.</desc>
     <category lang="en">Drama</category>
     <category lang="en">Romantic Drama</category>
     <icon src="https://images.pluto.tv/episodes/6603deac46b9c600133853e8/poster.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028191652 +0000" stop="20241028210652 +0000" channel="PLUTO TV CHRISTMAS IN SUMMER">
+    <title lang="en">One Bad Christmas</title>
+    <desc lang="en">Big Earl is the owner of a Christmas tree lot, he has a big heart and big visions. The week before Christmas, his son Derrick, trying to prove to his dad that he is a success, gets into trouble and puts the survival of his dad’s business in jeopardy.(n)</desc>
+    <category lang="en">Children &amp; Family</category>
+    <category lang="en">Family Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/63e11b38380e200013b07191/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028210652 +0000" stop="20241028225052 +0000" channel="PLUTO TV CHRISTMAS IN SUMMER">
+    <title lang="en">The Santa Trap</title>
+    <desc lang="en">Santa Claus winds up in jail after a 7-year-old sets a trap in order to prove his existence to her family.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/61681341417e0a001ae43510/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>All</value>
     </rating>
   </programme>
   <programme start="20241028011924 +0000" stop="20241028025502 +0000" channel="PLUTO THRILLERS">
@@ -5216,7 +6008,7 @@
   </programme>
   <programme start="20241028165339 +0000" stop="20241028183320 +0000" channel="PLUTO THRILLERS">
     <title lang="en">Wish You Were Dead</title>
-    <desc lang="en">Hayley tries to make ends meet for herself and her daughter while providing alimony for an ex-husband. She wishes her problems with her ex could go away.(n)</desc>
+    <desc lang="en">Hayley tries to make ends meet for herself and her daughter while providing alimony for an ex-husband. She wishes her problems with her ex could go away.</desc>
     <category lang="en">Thriller</category>
     <icon src="https://images.pluto.tv/episodes/66bb08b061ac5000142e33fc/poster.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
@@ -5226,9 +6018,31 @@
   </programme>
   <programme start="20241028183320 +0000" stop="20241028201320 +0000" channel="PLUTO THRILLERS">
     <title lang="en">The Wrong Mother</title>
-    <desc lang="en">Kelsey Larsen’s dream finally came true:  beautiful twins from an in vitro procedure.  But when Kelsey needs home care, the nurse she hires is none other than the egg donor herself — and the crazy woman has come to claim "her babies"!(n)</desc>
+    <desc lang="en">Kelsey Larsen’s dream finally came true:  beautiful twins from an in vitro procedure.  But when Kelsey needs home care, the nurse she hires is none other than the egg donor herself — and the crazy woman has come to claim "her babies"!</desc>
     <category lang="en">Thriller</category>
     <icon src="https://images.pluto.tv/episodes/6215eba6e17acd00139a9c50/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028201320 +0000" stop="20241028215820 +0000" channel="PLUTO THRILLERS">
+    <title lang="en">Mary Higgins Clark</title>
+    <sub-title lang="en">Mary Higgins Clark: I'll Be Seeing You</sub-title>
+    <desc lang="en">When Patricia is called to identify a body, she’s shocked to find her mirror image lying dead on a gurney. Determined to find out more about her surprise ‘twin’ and simultaneously, help her mother clear her father's name.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Biographical Drama</category>
+    <icon src="https://images.pluto.tv/episodes/60239a5818a184001affe3c2/poster.jpg" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028215820 +0000" stop="20241028233131 +0000" channel="PLUTO THRILLERS">
+    <title lang="en">The Bachelor Next Door</title>
+    <desc lang="en">A newly engaged couple becomes intrigued by the young stranger who moves in next door. He's handsome, friendly and very helpful, but he's no stranger.(n)</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.pluto.tv/episodes/66b4d0cf5b669a001315e7f7/poster.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>12+</value>
@@ -5336,13 +6150,35 @@
   </programme>
   <programme start="20241028174500 +0000" stop="20241028194000 +0000" channel="MOVIE SPHERE">
     <title lang="en">The Princess Bride</title>
-    <desc lang="en">A storybook stableboy turns pirate (Cary Elwes) and rescues his beloved (Robin Wright), who is about to marry a dreadful prince.(n)</desc>
+    <desc lang="en">A storybook stableboy turns pirate (Cary Elwes) and rescues his beloved (Robin Wright), who is about to marry a dreadful prince.</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://images.pluto.tv/episodes/668d97077e51670013781d20/poster.jpg" />
     <episode-num system="onscreen">S1</episode-num>
     <premiere />
     <rating>
       <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028194000 +0000" stop="20241028213000 +0000" channel="MOVIE SPHERE">
+    <title lang="en">The Changeover</title>
+    <desc lang="en">A teen in Christchurch, New Zealand, battles an ancient spirit who slowly drains the life out of her 4-year-old brother.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/66451b721123970014ebc670/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028213000 +0000" stop="20241028231800 +0000" channel="MOVIE SPHERE">
+    <title lang="en">The Cabin in the Woods</title>
+    <desc lang="en">Two unseen scientists manipulate the gory goings-on at a backwoods cabin inhabited by a group of unsuspecting college friends (Kristen Connolly, Chris Hemsworth, Anna Hutchison).(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/667ac68ec3f49b00132e689d/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <premiere />
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
   <programme start="20241028005756 +0000" stop="20241028022440 +0000" channel="PLUTO TV WESTERNS">
@@ -5636,7 +6472,7 @@
   <programme start="20241028164653 +0000" stop="20241028171753 +0000" channel="PLUTO TV WESTERNS">
     <title lang="en">The Life and Legend of Wyatt Earp: Let's Hang Curly Bill</title>
     <sub-title lang="en">Let's Hang Curly Bill</sub-title>
-    <desc lang="en">Marshal Fred White tries to take the pistol from a drunk Curly Bill Brocius but White's actions cause the gun to fire and he is mortally wounded.(n)</desc>
+    <desc lang="en">Marshal Fred White tries to take the pistol from a drunk Curly Bill Brocius but White's actions cause the gun to fire and he is mortally wounded.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Westerns</category>
     <icon src="https://images.pluto.tv/episodes/62052ee633b8100013b8084b/poster.jpg" />
@@ -5648,7 +6484,7 @@
   <programme start="20241028171753 +0000" stop="20241028174953 +0000" channel="PLUTO TV WESTERNS">
     <title lang="en">The Life and Legend of Wyatt Earp: Silver Dollar</title>
     <sub-title lang="en">Silver Dollar</sub-title>
-    <desc lang="en">Earp rescues a new girl called Silver Dollar from an amorous man in front of the Alhambra where she works and takes her to Nellie Cashman for a new job.(n)</desc>
+    <desc lang="en">Earp rescues a new girl called Silver Dollar from an amorous man in front of the Alhambra where she works and takes her to Nellie Cashman for a new job.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Westerns</category>
     <icon src="https://images.pluto.tv/episodes/62052efe33b8100013b80fd3/poster.jpg" />
@@ -5660,7 +6496,7 @@
   <programme start="20241028174953 +0000" stop="20241028182153 +0000" channel="PLUTO TV WESTERNS">
     <title lang="en">The Life and Legend of Wyatt Earp: The Case of Senor Huerto</title>
     <sub-title lang="en">The Case of Senor Huerto</sub-title>
-    <desc lang="en">A boy and his mother from Mexico arrive in Tombstone asking Earp to turn over the body of his father who was murdered in Tombstone by a Mr. Granby.(n)</desc>
+    <desc lang="en">A boy and his mother from Mexico arrive in Tombstone asking Earp to turn over the body of his father who was murdered in Tombstone by a Mr. Granby.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Westerns</category>
     <icon src="https://images.pluto.tv/episodes/62052ef133b8100013b80b43/poster.jpg" />
@@ -5672,7 +6508,7 @@
   <programme start="20241028182153 +0000" stop="20241028185353 +0000" channel="PLUTO TV WESTERNS">
     <title lang="en">The Life and Legend of Wyatt Earp: The Arizona Lottery</title>
     <sub-title lang="en">The Arizona Lottery</sub-title>
-    <desc lang="en">A string of murders occur at Tombstone caused by the Tucson Ten Percent Ring stealing the winning Arizona lottery tickets.(n)</desc>
+    <desc lang="en">A string of murders occur at Tombstone caused by the Tucson Ten Percent Ring stealing the winning Arizona lottery tickets.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Westerns</category>
     <icon src="https://images.pluto.tv/episodes/62052f0633b8100013b812b1/poster.jpg" />
@@ -5684,11 +6520,58 @@
   <programme start="20241028185353 +0000" stop="20241028192453 +0000" channel="PLUTO TV WESTERNS">
     <title lang="en">The Life and Legend of Wyatt Earp: Don't Get Tough with a Sailor</title>
     <sub-title lang="en">Don't Get Tough with a Sailor</sub-title>
-    <desc lang="en">Earp must contend with Capt. Rowland who runs his own legal system on his property -- including a jail.(n)</desc>
+    <desc lang="en">Earp must contend with Capt. Rowland who runs his own legal system on his property -- including a jail.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Westerns</category>
     <icon src="https://images.pluto.tv/episodes/62052ee733b8100013b8087b/poster.jpg" />
     <episode-num system="onscreen">S5 E26</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028192453 +0000" stop="20241028195653 +0000" channel="PLUTO TV WESTERNS">
+    <title lang="en">The Life and Legend of Wyatt Earp: The Scout</title>
+    <sub-title lang="en">The Scout</sub-title>
+    <desc lang="en">An Army scout returns to Tombstone and finds his wife killed by the Apaches in retribution for his attacks on Apache renegades.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Westerns</category>
+    <icon src="https://images.pluto.tv/episodes/62052f0b33b8100013b81407/poster.jpg" />
+    <episode-num system="onscreen">S5 E27</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028195653 +0000" stop="20241028202753 +0000" channel="PLUTO TV WESTERNS">
+    <title lang="en">The Life and Legend of Wyatt Earp: The Buntline Special</title>
+    <sub-title lang="en">The Buntline Special</sub-title>
+    <desc lang="en">Billy Clanton arrives home unexpectedly from school in San Antonio. Emma wants Old Man Clanton to send him back to school but Billy and his brothers Phin and Ike have other ideas.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Westerns</category>
+    <icon src="https://images.pluto.tv/episodes/62052eff33b8100013b81087/poster.jpg" />
+    <episode-num system="onscreen">S5 E28</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028202753 +0000" stop="20241028205953 +0000" channel="PLUTO TV WESTERNS">
+    <title lang="en">The Life and Legend of Wyatt Earp: China Mary</title>
+    <sub-title lang="en">China Mary</sub-title>
+    <desc lang="en">With several hundred Chinese people in Tombstone, resentment brews among them about their treatment.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Westerns</category>
+    <icon src="https://images.pluto.tv/episodes/62052ef733b8100013b80db0/poster.jpg" />
+    <episode-num system="onscreen">S5 E29</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028205953 +0000" stop="20241028223031 +0000" channel="PLUTO TV WESTERNS">
+    <title lang="en">Western World</title>
+    <desc lang="en">When US Marshall Moses White goes to the town of Dogwood Pass to track down a ruthless killer, he runs into a lot more than he bargained for. A corrupt mayor and an unhinged sheriff stand in the way of justice and he might just have to shoot his way out.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Westerns</category>
+    <icon src="https://images.pluto.tv/episodes/667161a1a2d47500140c7a74/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -5794,7 +6677,7 @@
   </programme>
   <programme start="20241028172013 +0000" stop="20241028185626 +0000" channel="PLUTO FAMILY MOVIE CLUB">
     <title lang="en">The Great Alaskan Race</title>
-    <desc lang="en">In this incredible true story, widowed father Leonhard travels 700 miles across treacherous ice with only his sled dogs for company, to deliver the anti-toxin to the hospital, after a deadly diphtheria outbreak hits the small Alaskan town of Nome in 1925.(n)</desc>
+    <desc lang="en">In this incredible true story, widowed father Leonhard travels 700 miles across treacherous ice with only his sled dogs for company, to deliver the anti-toxin to the hospital, after a deadly diphtheria outbreak hits the small Alaskan town of Nome in 1925.</desc>
     <category lang="en">Drama</category>
     <category lang="en">Inspirational Drama</category>
     <icon src="https://images.pluto.tv/episodes/666847866ae03e0013e9ceb0/poster.jpg" />
@@ -5806,13 +6689,24 @@
   <programme start="20241028185626 +0000" stop="20241028203726 +0000" channel="PLUTO FAMILY MOVIE CLUB">
     <title lang="en">A.R.C.H.I.E: A.R.C.H.I.E</title>
     <sub-title lang="en">A.R.C.H.I.E</sub-title>
-    <desc lang="en">Isabel has recently lost her parents in a car accident. Feeling alone and friendless, she befriends a stray robot dog named A.R.C.H.I.E. who can talk, run at blinding speed and has super strength and x-ray vision and they become fast friends.(n)</desc>
+    <desc lang="en">Isabel has recently lost her parents in a car accident. Feeling alone and friendless, she befriends a stray robot dog named A.R.C.H.I.E. who can talk, run at blinding speed and has super strength and x-ray vision and they become fast friends.</desc>
     <category lang="en">Children &amp; Family</category>
     <category lang="en">Family Comedies</category>
     <icon src="https://images.pluto.tv/episodes/652685d605bcdf001a0b0fe7/poster.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028203726 +0000" stop="20241028221726 +0000" channel="PLUTO FAMILY MOVIE CLUB">
+    <title lang="en">The Silver Brumby</title>
+    <desc lang="en">In the unforgiving wilderness of the Australian Alps, there roams a stallion like no other, the Silver Brumby. Now, one horseman sets off on an unforgettable adventure to capture the horse that according to legend, could never be tamed.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Biographical Drama</category>
+    <icon src="https://images.pluto.tv/episodes/634ec2d08a6c7e00137d8bf5/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>All</value>
     </rating>
   </programme>
   <programme start="20241028002957 +0000" stop="20241028022038 +0000" channel="PLUTO TV COMEDY MOVIES">
@@ -5916,10 +6810,32 @@
   </programme>
   <programme start="20241028170603 +0000" stop="20241028190802 +0000" channel="PLUTO TV COMEDY MOVIES">
     <title lang="en">Mad Money</title>
-    <desc lang="en">Deep inside the most secure bank in America, three desperate women from very different worlds cook up the most unlikely heist of the century: Smuggle out millions of dollars in worn-out currency headed for a Federal Reserve shredder every day.(n)</desc>
+    <desc lang="en">Deep inside the most secure bank in America, three desperate women from very different worlds cook up the most unlikely heist of the century: Smuggle out millions of dollars in worn-out currency headed for a Federal Reserve shredder every day.</desc>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Action Thrillers</category>
     <icon src="https://images.pluto.tv/episodes/5a57a83c97ad51c3cfc730a9/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028190802 +0000" stop="20241028210202 +0000" channel="PLUTO TV COMEDY MOVIES">
+    <title lang="en">The Chaperone</title>
+    <desc lang="en">Ray’s been asked to chaperone a school trip with his daughter Sally’s class. When characters from Ray’s criminal past believe he stole the loot from a bank they robbed, Ray will do whatever it takes to keep his daughter and her class out of harms way.(n)</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Action Comedies</category>
+    <icon src="https://images.pluto.tv/episodes/6357c8b93416c70013dcaafe/poster.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028210202 +0000" stop="20241028230802 +0000" channel="PLUTO TV COMEDY MOVIES">
+    <title lang="en">Whip It</title>
+    <desc lang="en">In Bodeen, Texas, an indie-rock loving misfit finds a way of dealing with her small-town misery after she discovers a roller derby league in nearby Austin.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Dramedy</category>
+    <icon src="https://images.pluto.tv/episodes/617fc0ff5eb49a001ae1cc06/poster.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>12+</value>
@@ -6071,7 +6987,7 @@
   </programme>
   <programme start="20241028165000 +0000" stop="20241028182800 +0000" channel="BRITISH SCREEN CLASSICS">
     <title lang="en">Cottage to Let</title>
-    <desc lang="en">Nazis try to learn the plans and location of a secret bomb sight in Scotland from an Allied scientist.(n)</desc>
+    <desc lang="en">Nazis try to learn the plans and location of a secret bomb sight in Scotland from an Allied scientist.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Dramas</category>
     <icon src="https://images.pluto.tv/episodes/670ce5b73d55320013ec4ef5/poster.jpg" />
@@ -6083,10 +6999,34 @@
   </programme>
   <programme start="20241028182800 +0000" stop="20241028200000 +0000" channel="BRITISH SCREEN CLASSICS">
     <title lang="en">Blackmail</title>
-    <desc lang="en">A Scotland Yard inspector deals with a blackmailer who knows that the lawman's fiancee killed an artist.(n)</desc>
+    <desc lang="en">A Scotland Yard inspector deals with a blackmailer who knows that the lawman's fiancee killed an artist.</desc>
     <category lang="en">Classics</category>
     <category lang="en">Classic Dramas</category>
     <icon src="https://images.pluto.tv/episodes/6719d6a9b99f8500137085ba/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028200000 +0000" stop="20241028213800 +0000" channel="BRITISH SCREEN CLASSICS">
+    <title lang="en">Circus of Horrors</title>
+    <desc lang="en">Tale about a renegade plastic surgeon on the run from the police, who becomes the owner of a run-down circus. Before long, the performers experience a series of horrific accidents.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/6719d6a9b99f8500137085da/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241028213800 +0000" stop="20241028231100 +0000" channel="BRITISH SCREEN CLASSICS">
+    <title lang="en">Night of the Eagle</title>
+    <desc lang="en">A sceptical college professor learns the true power of the occult when he attempts to rescue his wife from Satanists.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/66aa6ec017101c0013a44e4b/poster.jpg" />
     <episode-num system="onscreen">S1</episode-num>
     <premiere />
     <rating>
@@ -6335,7 +7275,7 @@
   <programme start="20241028164540 +0000" stop="20241028173758 +0000" channel="PLUTO SCI FI SERIES">
     <title lang="en">Starhunter Redux: Trust (REDUX)</title>
     <sub-title lang="en">Trust (REDUX)</sub-title>
-    <desc lang="en">Dante's still impressionable teenage niece, Percy, comes under the sway of a young, handsome psychopath. Her actions inadvertently threaten the life of her uncle.(n)</desc>
+    <desc lang="en">Dante's still impressionable teenage niece, Percy, comes under the sway of a young, handsome psychopath. Her actions inadvertently threaten the life of her uncle.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/65a79e1a1ffdb00013df5e1e/poster.jpg" />
@@ -6347,7 +7287,7 @@
   <programme start="20241028173758 +0000" stop="20241028182610 +0000" channel="PLUTO SCI FI SERIES">
     <title lang="en">Starhunter Redux: Order (REDUX)</title>
     <sub-title lang="en">Order (REDUX)</sub-title>
-    <desc lang="en">When a ship of religious cultists commit mass suicide by diving their ship into the sun, the crew rescues a shuttle full of survivors, including the cult leader himself, Brother Thirteen.(n)</desc>
+    <desc lang="en">When a ship of religious cultists commit mass suicide by diving their ship into the sun, the crew rescues a shuttle full of survivors, including the cult leader himself, Brother Thirteen.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/65a7a0ea5dd86b0013d8eab1/poster.jpg" />
@@ -6359,13 +7299,59 @@
   <programme start="20241028182610 +0000" stop="20241028191725 +0000" channel="PLUTO SCI FI SERIES">
     <title lang="en">Starhunter Redux: Siren's Song (REDUX)</title>
     <sub-title lang="en">Siren's Song (REDUX)</sub-title>
-    <desc lang="en">After the crew capture a murderous psychopath named Petrakis, they cross paths with a Major Bartlett, who has a prisoner of his own to move... and military authorization to commandeer the Tulip.(n)</desc>
+    <desc lang="en">After the crew capture a murderous psychopath named Petrakis, they cross paths with a Major Bartlett, who has a prisoner of his own to move... and military authorization to commandeer the Tulip.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Action Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/episodes/65a7a5229eae960013cd92d2/poster.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating>
       <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028191725 +0000" stop="20241028200740 +0000" channel="PLUTO SCI FI SERIES">
+    <title lang="en">Starhunter Redux: The Man Who Sold The World (REDUX)</title>
+    <sub-title lang="en">The Man Who Sold The World (REDUX)</sub-title>
+    <desc lang="en">When Dante and Luc leave the ship to track down a ruthless war criminal, Percy discovers an invasion of the Tulip by a deadly AI.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/65a7a5259eae960013cd9333/poster.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028200740 +0000" stop="20241028205854 +0000" channel="PLUTO SCI FI SERIES">
+    <title lang="en">Starhunter Redux: Peer Pressure (REDUX)</title>
+    <sub-title lang="en">Peer Pressure (REDUX)</sub-title>
+    <desc lang="en">Dante brings a captive fugitive aboard, along with her teenage son, Ajit. Percy and Ajit's immediate attraction sparks a conflict which endangers everyone.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/65a7a6925884b400133ac222/poster.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028205854 +0000" stop="20241028214954 +0000" channel="PLUTO SCI FI SERIES">
+    <title lang="en">The Dead Zone: Cold Hard Truth</title>
+    <sub-title lang="en">Cold Hard Truth</sub-title>
+    <desc lang="en">Johnny becomes involved with an abusive radio shock jock (Richard Lewis) and in the process forges a new relationship with his son J.J. (Spencer Achtymichuk). Directed by Anthony Michael Hall.(n)</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.pluto.tv/episodes/58c6ddc5efac2b5867699c34/poster.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating>
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20241028214954 +0000" stop="20241028224054 +0000" channel="PLUTO SCI FI SERIES">
+    <title lang="en">The Dead Zone: Total Awareness</title>
+    <sub-title lang="en">Total Awareness</sub-title>
+    <desc lang="en">Johnny and a rebellious young woman (Lauren Lee Smith) with a strange gift for numbers team up to expose a corrupt government agency using massive intelligence-gathering program that can access every surveillance network in the world.(n)</desc>
+    <category lang="en">Thriller</category>
+    <icon src="https://images.pluto.tv/episodes/58c07320f5851e47e1743c8a/poster.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
   <programme start="20241028002731 +0000" stop="20241028011918 +0000" channel="MORE TV SCI FI">
@@ -6623,7 +7609,7 @@
   <programme start="20241028170639 +0000" stop="20241028175339 +0000" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: Moonscape</title>
     <sub-title lang="en">Moonscape</sub-title>
-    <desc lang="en">Augur is forced to take part in a Taelon experiment. Da'an and Liam try to convince Zo'or that altering minds and implanting humans to make them aggressive to fight the Jaridians is not the correct path. Maiya makes contact with Sandoval.(n)</desc>
+    <desc lang="en">Augur is forced to take part in a Taelon experiment. Da'an and Liam try to convince Zo'or that altering minds and implanting humans to make them aggressive to fight the Jaridians is not the correct path. Maiya makes contact with Sandoval.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://images.pluto.tv/episodes/6140a73aaeae500014d5a3d6/poster.jpg" />
@@ -6635,7 +7621,7 @@
   <programme start="20241028175339 +0000" stop="20241028184039 +0000" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: The Sleepers</title>
     <sub-title lang="en">The Sleepers</sub-title>
-    <desc lang="en">A Jaridian probe lands on Earth and begins sucking energy from the Comonality. The Taelons use humans in a near-death state to keep their connection while Lili and Sandoval try to find out what is draining the energy.(n)</desc>
+    <desc lang="en">A Jaridian probe lands on Earth and begins sucking energy from the Comonality. The Taelons use humans in a near-death state to keep their connection while Lili and Sandoval try to find out what is draining the energy.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://silo.pluto.tv/origin/2gdigital/partners/5ebe4603414b34000726cbb5/EarthFinalConflict-en_series_poster.jpg" />
@@ -6647,13 +7633,61 @@
   <programme start="20241028184039 +0000" stop="20241028192739 +0000" channel="MORE TV SCI FI">
     <title lang="en">Earth: Final Conflict: Fissures</title>
     <sub-title lang="en">Fissures</sub-title>
-    <desc lang="en">When large scale blackouts begin to occur in cities with portals, Taelon technology is blamed. Augur and Liam investigate the death of a portal worker by a strange creature that feeds on energy and is particularly attracted to the Taelons.(n)</desc>
+    <desc lang="en">When large scale blackouts begin to occur in cities with portals, Taelon technology is blamed. Augur and Liam investigate the death of a portal worker by a strange creature that feeds on energy and is particularly attracted to the Taelons.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <category lang="en">Alien Sci-Fi</category>
     <icon src="https://silo.pluto.tv/origin/2gdigital/partners/5ebe4603414b34000726cbb5/EarthFinalConflict-en_series_poster.jpg" />
     <episode-num system="onscreen">S2 E7</episode-num>
     <rating>
       <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028192739 +0000" stop="20241028201439 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Earth: Final Conflict: Redemption</title>
+    <sub-title lang="en">Redemption</sub-title>
+    <desc lang="en">Siobhan falls while rock climbing. As the others search for her, she dreams that she is on trial for supporting the Taelons. Zo'or questions whether Sandoval's CVI imperative to serve the Taelons has broken down as others are experiencing.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Alien Sci-Fi</category>
+    <icon src="https://silo.pluto.tv/origin/2gdigital/partners/5ebe4603414b34000726cbb5/EarthFinalConflict-en_series_poster.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028201439 +0000" stop="20241028210139 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Earth: Final Conflict: Between Heaven and Hell</title>
+    <sub-title lang="en">Between Heaven and Hell</sub-title>
+    <desc lang="en">Dr. Belman's daughter does human testing on herself with an accelerant that causes her to rapidly evolve. Joshua Doors decides somebody should run against President Thompson in the election, somebody who will stand up to the Taelons.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Alien Sci-Fi</category>
+    <icon src="https://silo.pluto.tv/origin/2gdigital/partners/5ebe4603414b34000726cbb5/EarthFinalConflict-en_series_poster.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241028210139 +0000" stop="20241028215539 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Sanctuary: Homecoming</title>
+    <sub-title lang="en">Homecoming</sub-title>
+    <desc lang="en">Will's trip to Liberia turns bad when he suffers a head trauma from an attack. The trauma brings up powerful memories about his mothers death and the inadequacies of his father. Magnus deals with be-winged scam artist.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/61656456b8333a001ad5e4f8/poster.jpg" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating>
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20241028215539 +0000" stop="20241028224939 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Sanctuary: Icebreaker</title>
+    <sub-title lang="en">Icebreaker</sub-title>
+    <desc lang="en">Henry and Declan lead a team to rescue a crew of a Russian icebreaker and the abnormal passengers.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/61656457b8333a001ad5e5f0/poster.jpg" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
   <programme start="20241028002200 +0000" stop="20241028004700 +0000" channel="AUCTION HUNTERS">
@@ -7127,7 +8161,7 @@
   <programme start="20241028164300 +0000" stop="20241028170800 +0000" channel="AUCTION HUNTERS">
     <title lang="en">Auction Hunters: Choo-Choo, Cha-Ching!</title>
     <sub-title lang="en">Choo-Choo, Cha-Ching!</sub-title>
-    <desc lang="en">Ton and Allen get a surprise second chance after nearly getting shut out in the small town of Palmer.  They uncover a motorized railroad maintenance car from the 1960's and a pre-WWI Japanese semi-automatic pistol.(n)</desc>
+    <desc lang="en">Ton and Allen get a surprise second chance after nearly getting shut out in the small town of Palmer.  They uncover a motorized railroad maintenance car from the 1960's and a pre-WWI Japanese semi-automatic pistol.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5dd5821598e1703f0f687bd3/poster.jpg" />
@@ -7139,7 +8173,7 @@
   <programme start="20241028170800 +0000" stop="20241028173300 +0000" channel="AUCTION HUNTERS">
     <title lang="en">Auction Hunters: Everything's Bigger in Texas</title>
     <sub-title lang="en">Everything's Bigger in Texas</sub-title>
-    <desc lang="en">Winchester 1886 rifle invented to kill buffalo; collection of 1950s electric Slot Cars.(n)</desc>
+    <desc lang="en">Winchester 1886 rifle invented to kill buffalo; collection of 1950s electric Slot Cars.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5d9cd74ec1f20a7d51a09c68/poster.jpg" />
@@ -7151,7 +8185,7 @@
   <programme start="20241028173300 +0000" stop="20241028175800 +0000" channel="AUCTION HUNTERS">
     <title lang="en">Auction Hunters: Drumming Up Cash</title>
     <sub-title lang="en">Drumming Up Cash</sub-title>
-    <desc lang="en">Ton &amp; Allen face some silent but deadly competition at an auction in nearby Glendale. They discover a Zildjian brand percussion cymbal from the 1940's and a pyrotechnics control board designed for large-scale fireworks displays!(n)</desc>
+    <desc lang="en">Ton &amp; Allen face some silent but deadly competition at an auction in nearby Glendale. They discover a Zildjian brand percussion cymbal from the 1940's and a pyrotechnics control board designed for large-scale fireworks displays!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5dd5808b5ffe59738d508224/poster.jpg" />
@@ -7163,7 +8197,7 @@
   <programme start="20241028175800 +0000" stop="20241028182300 +0000" channel="AUCTION HUNTERS">
     <title lang="en">Auction Hunters: Allen's Got Balls</title>
     <sub-title lang="en">Allen's Got Balls</sub-title>
-    <desc lang="en">After returning to LA, Ton &amp; Allen head deep into hostile auction hunter territory and butt heads with a familiar old foe! They discover a driving range golf ball picker vehicle and one of the most accurate rifles ever made!(n)</desc>
+    <desc lang="en">After returning to LA, Ton &amp; Allen head deep into hostile auction hunter territory and butt heads with a familiar old foe! They discover a driving range golf ball picker vehicle and one of the most accurate rifles ever made!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5dd58058cbafa95fb9c651ba/poster.jpg" />
@@ -7175,7 +8209,7 @@
   <programme start="20241028182300 +0000" stop="20241028184800 +0000" channel="AUCTION HUNTERS">
     <title lang="en">Auction Hunters: Fake Punt Payoff</title>
     <sub-title lang="en">Fake Punt Payoff</sub-title>
-    <desc lang="en">Ton and Allen contend with a large crowd of inexperienced auction-buyers at a huge storage container auction in Pasadena. They find a small fleet of Segway personal transporters and an enormous custom-made shotgun.(n)</desc>
+    <desc lang="en">Ton and Allen contend with a large crowd of inexperienced auction-buyers at a huge storage container auction in Pasadena. They find a small fleet of Segway personal transporters and an enormous custom-made shotgun.</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5dd5801e5c3d83f140247e65/poster.jpg" />
@@ -7187,11 +8221,95 @@
   <programme start="20241028184800 +0000" stop="20241028191300 +0000" channel="AUCTION HUNTERS">
     <title lang="en">Auction Hunters: Shuffle</title>
     <sub-title lang="en">Shuffle</sub-title>
-    <desc lang="en">Ton and Allen teach a cocky new auction hunter a lesson. They spot a 1940's-era shuffleboard table and uncover an early hot rod made from the fuel tank of a WWII fighter plane!(n)</desc>
+    <desc lang="en">Ton and Allen teach a cocky new auction hunter a lesson. They spot a 1940's-era shuffleboard table and uncover an early hot rod made from the fuel tank of a WWII fighter plane!</desc>
     <category lang="en">Reality</category>
     <category lang="en">Celebrity Reality</category>
     <icon src="https://images.pluto.tv/episodes/5dd5811cb270027b2ea24582/poster.jpg" />
     <episode-num system="onscreen">S3</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028191300 +0000" stop="20241028193900 +0000" channel="AUCTION HUNTERS">
+    <title lang="en">Auction Hunters: The Big Score</title>
+    <sub-title lang="en">The Big Score</sub-title>
+    <desc lang="en">At a climate-controlled storage facility in downtown L.A., Allen and Ton's locker wins score them an antique cash register and a German H&amp;K pistol prized by collectors.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5d9cd7b518fb1a9bf8172c02/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028193900 +0000" stop="20241028200400 +0000" channel="AUCTION HUNTERS">
+    <title lang="en">Auction Hunters: Allen's Ruff Day</title>
+    <sub-title lang="en">Allen's Ruff Day</sub-title>
+    <desc lang="en">Ton and Allen head to an auction in Ton's hometown and end up battling with a big-mouthed buyer.  They discover a pair of tranquilizer dart guns and also end up fighting with a K9!(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5dd58037b270027b2ea2455d/poster.jpg" />
+    <episode-num system="onscreen">S3 E322</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028200400 +0000" stop="20241028202900 +0000" channel="AUCTION HUNTERS">
+    <title lang="en">Auction Hunters: Hula Moola</title>
+    <sub-title lang="en">Hula Moola</sub-title>
+    <desc lang="en">Ton and Allen jet to the Hawaiian islands where they're joined by a feisty new female assistant! The team uncovers a pair of James Bond-style gadgets designed for high-speed underwater travel and a vintage sled.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5dd57fdf58cb0d91a2ae4208/poster.jpg" />
+    <episode-num system="onscreen">S3 E323</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028202900 +0000" stop="20241028205400 +0000" channel="AUCTION HUNTERS">
+    <title lang="en">Auction Hunters: Gold 'n' Gloves</title>
+    <sub-title lang="en">Gold 'n' Gloves</sub-title>
+    <desc lang="en">The Auction Hunters team goes toe-to-toe with Ton's evil twin! They find a medieval catapult designed for storming castles and Ton uncovers a hidden collection of gold bars worth thousands of dollars!(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5dd57fd3cbafa95fb9c65191/poster.jpg" />
+    <episode-num system="onscreen">S3 E326</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028205400 +0000" stop="20241028211900 +0000" channel="AUCTION HUNTERS">
+    <title lang="en">Auction Hunters: Mr. Haff Goes to Washington</title>
+    <sub-title lang="en">Mr. Haff Goes to Washington</sub-title>
+    <desc lang="en">Ton and Allen invade the Nation's capital, but meet strong resistance from local bidders. The guys uncover a Civil War era black powder revolver and a stash of South African gold coins!(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5dd580aa51d043eabfdcc186/poster.jpg" />
+    <episode-num system="onscreen">S3</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028211900 +0000" stop="20241028214400 +0000" channel="AUCTION HUNTERS">
+    <title lang="en">Auction Hunters: Labor of Love</title>
+    <sub-title lang="en">Labor of Love</sub-title>
+    <desc lang="en">Harley Davidson V-twin EVO engine and revolutionary 1958 dual-suspension swingarm frame; '80s Ms. Pac-Man arcade machine; rare Air Jordan vintage shoe collection in mint condition.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5d9cd6e9fc9d8ecaa6fa8e31/poster.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <rating>
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20241028214400 +0000" stop="20241028220900 +0000" channel="AUCTION HUNTERS">
+    <title lang="en">Auction Hunters: Sink or Swim</title>
+    <sub-title lang="en">Sink or Swim</sub-title>
+    <desc lang="en">1905 Hand-crank Thomas Edison gramophone with cylindrical records; a discontinued Addictor 190 Mini Boat; a rare 1897 Regina music box.(n)</desc>
+    <category lang="en">Reality</category>
+    <category lang="en">Celebrity Reality</category>
+    <icon src="https://images.pluto.tv/episodes/5d9cd752149ed2333d82864a/poster.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
     <rating>
       <value>9+</value>
     </rating>
