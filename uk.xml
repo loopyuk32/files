@@ -104,28 +104,6 @@
     <display-name lang="en">AUCTION HUNTERS</display-name>
     <url>http://www.plutotv.uk</url>
   </channel>
-  <programme start="20241107001939 +0000" stop="20241107011339 +0000" channel="MOST HAUNTED">
-    <title lang="en">Most Haunted: Knottingley Town Hall</title>
-    <sub-title lang="en">Knottingley Town Hall</sub-title>
-    <desc lang="en">This location is said to be overflowing with paranormal activity, which doesn’t disappoint.(n)</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
-    <episode-num system="onscreen">S17 E9</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241107011339 +0000" stop="20241107020739 +0000" channel="MOST HAUNTED">
-    <title lang="en">Most Haunted: Oakwell House</title>
-    <sub-title lang="en">Oakwell House</sub-title>
-    <desc lang="en">The team investigate Oakwell House near Leeds, which was built by ancestors of Fred Batt. In 1684, William Batt returned unexpectedly from a trip to London but vanished leaving a bloody footprint. A demon dog has been seen in the grounds.(n)</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
-    <episode-num system="onscreen">S17 E8</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
   <programme start="20241107020739 +0000" stop="20241107030139 +0000" channel="MOST HAUNTED">
     <title lang="en">Most Haunted: Tatton Hall</title>
     <sub-title lang="en">Tatton Hall</sub-title>
@@ -159,39 +137,37 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20241107001300 +0000" stop="20241107004700 +0000" channel="HELLS KITCHEN">
-    <title lang="en">Hell's Kitchen</title>
-    <desc lang="en">Michelin Star-winner Ramsay’s five-time Emmy-nominated show Hell’s Kitchen, shows us how aspiring chefs compete to become head chef at one of Gordon’s prestigious restaurants. Who can survive the temper of Gordon Ramsay &amp; his Hell’s Kitchen?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images.pluto.tv/episodes/672a815e321c190013b0d031/poster.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <premiere />
+  <programme start="20241107044939 +0000" stop="20241107054339 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: Wentworth Woodhouse Part 2</title>
+    <sub-title lang="en">Wentworth Woodhouse Part 2</sub-title>
+    <desc lang="en">Part 2. The underbelly of this great house is a sharp contrast to its upper grandeur. Some members of the team are forced to run while other are lost in the labyrinth of tunnels and passageways pursued by something unnatural.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/632c11687a31e800133c5026/poster.jpg" />
+    <episode-num system="onscreen">S17 E7</episode-num>
     <rating>
-      <value>Not Rated</value>
+      <value>12+</value>
     </rating>
   </programme>
-  <programme start="20241107004700 +0000" stop="20241107013900 +0000" channel="HELLS KITCHEN">
-    <title lang="en">Hell's Kitchen USA</title>
-    <sub-title lang="en">6 Chefs Compete</sub-title>
-    <desc lang="en">Gordon Ramsay puts aspiring chefs through a series of gruelling challenges. Pairs of contestants battle it out in the `Taste It and Make It' challenge, with the winning duo visiting the Queen Mary ocean liner.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images.pluto.tv/episodes/6555da4905bcdf001a914ecb/poster.jpg" />
-    <episode-num system="onscreen">S14 E13</episode-num>
-    <premiere />
+  <programme start="20241107054339 +0000" stop="20241107063739 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: 30 East  Drive_PT1</title>
+    <sub-title lang="en">30 East  Drive_PT1</sub-title>
+    <desc lang="en">30 East Drive is said to house the most violent poltergeist in the world. The team go head first into what becomes their toughest challenge yet. As soon as they enter the property something is waiting and wants to be known.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/632c119e7a31e800133c5e62/poster.jpg" />
+    <episode-num system="onscreen">S18 E1</episode-num>
     <rating>
-      <value>Not Rated</value>
+      <value>12+</value>
     </rating>
   </programme>
-  <programme start="20241107013900 +0000" stop="20241107023000 +0000" channel="HELLS KITCHEN">
-    <title lang="en">Hell's Kitchen USA</title>
-    <sub-title lang="en">5 Chefs Compete</sub-title>
-    <desc lang="en">The top five chefs prepare a unique and elegant small-plate dish in under 45 minutes for people attending a private symphony performance, for which the challenge winner earns a private helicopter tour of Los Angeles.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images.pluto.tv/episodes/66ffee0e9edd920013d06f7b/poster.jpg" />
-    <episode-num system="onscreen">S14 E14</episode-num>
-    <premiere />
+  <programme start="20241107063739 +0000" stop="20241107073139 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: 30 East Drive_PT2</title>
+    <sub-title lang="en">30 East Drive_PT2</sub-title>
+    <desc lang="en">The team continue their most threatening investigation yet and for some they will be scared for life mentally and physically. The most violent poltergeist in the world is ready for a fight...but who wins?(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/assets/images/default/vod.poster-default.jpg" />
+    <episode-num system="onscreen">S18 E2</episode-num>
     <rating>
-      <value>Not Rated</value>
+      <value>12+</value>
     </rating>
   </programme>
   <programme start="20241107023000 +0000" stop="20241107032200 +0000" channel="HELLS KITCHEN">
@@ -213,6 +189,54 @@
     <category lang="en">Entertainment</category>
     <icon src="https://images.pluto.tv/episodes/66ffee1c9edd920013d0a59c/poster.jpg" />
     <episode-num system="onscreen">S14 E16</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241107041300 +0000" stop="20241107050500 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">18 Chefs Compete</sub-title>
+    <desc lang="en">This season's contestants head to Las Vegas where they participate in the signature dish challenge; the winners of the challenge ride on the world's tallest Ferris wheel while the losers peel 50 pounds of shrimp and 1,000 pounds of potatoes.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/655620b405bcdf001a946b05/poster.jpg" />
+    <episode-num system="onscreen">S15 E1</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241107050500 +0000" stop="20241107055600 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">17 Chefs Compete</sub-title>
+    <desc lang="en">The teams have 20 minutes to see which team can produce the most shrimp dumplings; rapper The Game attends the dinner service.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/66ffee1c9edd920013d0a5c0/poster.jpg" />
+    <episode-num system="onscreen">S15 E2</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241107055600 +0000" stop="20241107064800 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">16 Chefs Compete</sub-title>
+    <desc lang="en">The chefs are given a communication challenge. VIP guests for dinner service include astronaut Buzz Aldrin.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/655620b405bcdf001a946b43/poster.jpg" />
+    <episode-num system="onscreen">S15 E3</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241107064800 +0000" stop="20241107073900 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">15 Chefs Compete</sub-title>
+    <desc lang="en">Kris Jenner and Dita Von Teese enjoy duck dishes as one team pulls off a near-perfect dinner service.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/66ffee1d9edd920013d0a5e4/poster.jpg" />
+    <episode-num system="onscreen">S15 E4</episode-num>
     <premiere />
     <rating>
       <value>Not Rated</value>
@@ -240,16 +264,15 @@
       <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20241107001700 +0000" stop="20241107013800 +0000" channel="BRITISH SCREEN CLASSICS">
-    <title lang="en">A Window in London</title>
-    <desc lang="en">On his way to work, a man looks through the window of his train where he sees a young woman's murder.(n)</desc>
-    <category lang="en">Classics</category>
-    <category lang="en">Classic Dramas</category>
-    <icon src="https://images.pluto.tv/episodes/6725c1c43b8ac60013d8f1f5/poster.jpg" />
+  <programme start="20241107052800 +0000" stop="20241107072500 +0000" channel="MOVIE SPHERE">
+    <title lang="en">Killers</title>
+    <desc lang="en">A madman forces young friends to kill one another to try to survive a sadistic game.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/66451b711123970014ebc57a/poster.jpg" />
     <episode-num system="onscreen">S1</episode-num>
     <premiere />
     <rating>
-      <value>All</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
   <programme start="20241107013800 +0000" stop="20241107030800 +0000" channel="BRITISH SCREEN CLASSICS">
@@ -274,6 +297,66 @@
     <premiere />
     <rating>
       <value>All</value>
+    </rating>
+  </programme>
+  <programme start="20241107043300 +0000" stop="20241107061300 +0000" channel="BRITISH SCREEN CLASSICS">
+    <title lang="en">Bachelor of Hearts</title>
+    <desc lang="en">A German exchange student has girl troubles while studying at Cambridge, as the annual May Ball approaches.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/6725c1c63b8ac60013d8f269/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <premiere />
+    <rating>
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme start="20241107061300 +0000" stop="20241107075600 +0000" channel="BRITISH SCREEN CLASSICS">
+    <title lang="en">Doctor in Love</title>
+    <desc lang="en">A doctor falls in love with a nurse while undergoing treatment at his own hospital. When his stand-in breaks his leg and is replaced by a female doctor, he falls for her as well.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/6725195fc394bf0013f379e6/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <premiere />
+    <rating>
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme start="20241107023540 +0000" stop="20241107032940 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Sanctuary: For King and Country</title>
+    <sub-title lang="en">For King and Country</sub-title>
+    <desc lang="en">With Adam under tight security back at the Sanctuary, Magnus starts to process the events of the past 24 hours. She discloses to Will how she was associated with Adam back at Oxford in the late 1800s, and the turbulent role he played with The Five.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/616574ae0b4e8f001a950c45/poster.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating>
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20241107032940 +0000" stop="20241107042340 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Sanctuary: Vigilante</title>
+    <sub-title lang="en">Vigilante</sub-title>
+    <desc lang="en">Knowing that the cure for Magnus’s illness can only be found in the hidden City, Will decides to release Adam from his restraints so he can show them how find the City’s access point.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/616574ae0b4e8f001a950c5e/poster.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating>
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20241107042340 +0000" stop="20241107051740 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Sanctuary: The Hollow Men</title>
+    <sub-title lang="en">The Hollow Men</sub-title>
+    <desc lang="en">Now with the real keystone in her possession, Magnus tells Adam Worth she is leaving to find the hidden city. Although he warns her of great danger there, she insists he stay behind and promises to bring back the cure to their radiation illness.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/616574ae0b4e8f001a950d0d/poster.jpg" />
+    <episode-num system="onscreen">S3</episode-num>
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
 </tv>
