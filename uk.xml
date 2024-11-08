@@ -104,28 +104,6 @@
     <display-name lang="en">AUCTION HUNTERS</display-name>
     <url>http://www.plutotv.uk</url>
   </channel>
-  <programme start="20241108003639 +0000" stop="20241108012939 +0000" channel="MOST HAUNTED">
-    <title lang="en">Most Haunted: Ripon Prison</title>
-    <sub-title lang="en">Ripon Prison</sub-title>
-    <desc lang="en">A small prison in Yorkshire gives a big impact when Yvette and her team attempt to stay the night. Although many inmates were released some are still locked up and they are not happy.(n)</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://images.pluto.tv/episodes/632c117d7a31e800133c55a9/poster.jpg" />
-    <episode-num system="onscreen">E7</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20241108012939 +0000" stop="20241108022239 +0000" channel="MOST HAUNTED">
-    <title lang="en">Most Haunted: Ripon Workhouse</title>
-    <sub-title lang="en">Ripon Workhouse</sub-title>
-    <desc lang="en">In a place where the homeless were kept and work was hard, death was often the only escape but it seems that wasn’t the way for some as their souls are said to roam this place.(n)</desc>
-    <category lang="en">Paranormal</category>
-    <icon src="https://images.pluto.tv/episodes/632c117b7a31e800133c554d/poster.jpg" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
   <programme start="20241108022239 +0000" stop="20241108031539 +0000" channel="MOST HAUNTED">
     <title lang="en">Most Haunted: Standon Hall Part 1</title>
     <sub-title lang="en">Standon Hall Part 1</sub-title>
@@ -148,28 +126,47 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20241108005000 +0000" stop="20241108014100 +0000" channel="HELLS KITCHEN">
-    <title lang="en">Hell's Kitchen USA</title>
-    <sub-title lang="en">Raising the Bar</sub-title>
-    <desc lang="en">16 all-star chefs compete against each other in a bar menu challenge and Chef Ramsay surprises everyone with a shocking elimination.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images.pluto.tv/episodes/66edce79a0ed4700134a9103/poster.jpg" />
-    <episode-num system="onscreen">S17 E2</episode-num>
-    <premiere />
+  <programme start="20241108040839 +0000" stop="20241108050139 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: Standon Hall Part 3</title>
+    <sub-title lang="en">Standon Hall Part 3</sub-title>
+    <desc lang="en">The concluding part of the team’s most scary investigation to date, but will they last the night as something definitely wants them out.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/632c117d7a31e800133c558b/poster.jpg" />
     <rating>
-      <value>Not Rated</value>
+      <value>12+</value>
     </rating>
   </programme>
-  <programme start="20241108014100 +0000" stop="20241108023300 +0000" channel="HELLS KITCHEN">
-    <title lang="en">Hell's Kitchen USA</title>
-    <sub-title lang="en">Tower of Terror</sub-title>
-    <desc lang="en">With 15 chefs remaining, the Red and Blue teams must race against each other to build a gourmet seafood tower and later go head to head in a heated dinner service with table side appetisers.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images.pluto.tv/episodes/65579541d68a200013e246d8/poster.jpg" />
-    <episode-num system="onscreen">S17 E3</episode-num>
-    <premiere />
+  <programme start="20241108050139 +0000" stop="20241108055439 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: The Slaughter House</title>
+    <sub-title lang="en">The Slaughter House</sub-title>
+    <desc lang="en">The Slaughterhouse is Liverpool’s oldest pub and gives the team more than they bargained for as object are moved from underneath the team’s noses.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/632c117d7a31e800133c55b8/poster.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
     <rating>
-      <value>Not Rated</value>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241108055439 +0000" stop="20241108064739 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: Todmoredon Church</title>
+    <sub-title lang="en">Todmoredon Church</sub-title>
+    <desc lang="en">For the first time Yvette takes her fearless Most Haunted team to an ordained church and graveyard. But it’s the cellar that proves the most fearful as the team get caught in a small room and they are not alone.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/632c117c7a31e800133c555d/poster.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241108064739 +0000" stop="20241108074039 +0000" channel="MOST HAUNTED">
+    <title lang="en">Most Haunted: Weir Mill</title>
+    <sub-title lang="en">Weir Mill</sub-title>
+    <desc lang="en">Yvette take her team to an abandoned mill where spirits are said to roam and satanic ritual taken place. What awaits them is an evening of fear that causes one of the team to leave early.(n)</desc>
+    <category lang="en">Paranormal</category>
+    <icon src="https://images.pluto.tv/episodes/632c117d7a31e800133c559a/poster.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating>
+      <value>12+</value>
     </rating>
   </programme>
   <programme start="20241108023300 +0000" stop="20241108032400 +0000" channel="HELLS KITCHEN">
@@ -196,15 +193,52 @@
       <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20241108004000 +0000" stop="20241108022000 +0000" channel="MOVIE SPHERE">
-    <title lang="en">Blood Brother</title>
-    <desc lang="en">A recently released convict takes murderous revenge against his childhood friends who let him take the fall for their crimes.(n)</desc>
+  <programme start="20241108041600 +0000" stop="20241108050700 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">A Little Slice of Hell</sub-title>
+    <desc lang="en">13 all-star chefs go head-to-head to create pizzas inspired by countries from all over the world to test their knowledge of diverse ingredients and ethnic flavours. A tie between the red and blue teams is broken.(n)</desc>
     <category lang="en">Entertainment</category>
-    <icon src="https://images.pluto.tv/episodes/6698704a3653a600136bfbfd/poster.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
+    <icon src="https://images.pluto.tv/episodes/66edce7aa0ed4700134a914e/poster.jpg" />
+    <episode-num system="onscreen">S17 E6</episode-num>
     <premiere />
     <rating>
-      <value>15+</value>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241108050700 +0000" stop="20241108055900 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">Trimming Fat</sub-title>
+    <desc lang="en">Both teams replicate six Hell's Kitchen entrees while kicking chefs out of the kitchen until only one remains. Chef Ramsay holds a `Cook For Your Life' challenge. Robyn, Giovanni, Milly, Barbie, Manda, and Elise must recreate his signature dish.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/65579542d68a200013e24758/poster.jpg" />
+    <episode-num system="onscreen">S17 E7</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241108055900 +0000" stop="20241108065000 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">Welcome to the Jungle</sub-title>
+    <desc lang="en">After Giovanni goes home, Michelle and Elise continue their heated fight. The chefs compete in a game meat challenge. Michelle sends up raw chicken, Barbie sends up raw duck and Manda sends up raw pork. The teams must decide who to nominate.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/66edce7aa0ed4700134a9173/poster.jpg" />
+    <episode-num system="onscreen">S17 E8</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241108065000 +0000" stop="20241108074200 +0000" channel="HELLS KITCHEN">
+    <title lang="en">Hell's Kitchen USA</title>
+    <sub-title lang="en">Catch of the Day</sub-title>
+    <desc lang="en">Elise and Michelle get into a heated argument that carries over into the next day. In the challenge, the chefs toss fish to collect ingredients. While Barbie annoys her team in punishment, the blue team heads to Vegas for a night of revelry.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/6571829d1311360013cd7b70/poster.jpg" />
+    <episode-num system="onscreen">S17 E9</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
     </rating>
   </programme>
   <programme start="20241108022000 +0000" stop="20241108041300 +0000" channel="MOVIE SPHERE">
@@ -218,16 +252,26 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20241108004400 +0000" stop="20241108020900 +0000" channel="BRITISH SCREEN CLASSICS">
-    <title lang="en">Crackerjack</title>
-    <desc lang="en">Jack Drake is a man with `one hundred faces', and in reality, a modern-day Robin Hood, known only as Crackerjack. He thrills all of England with his exploits of stealing from the rich and giving to the poor.(n)</desc>
-    <category lang="en">Classics</category>
-    <category lang="en">Classic Dramas</category>
-    <icon src="https://images.pluto.tv/episodes/67251963c394bf0013f37d4c/poster.jpg" />
+  <programme start="20241108041300 +0000" stop="20241108061700 +0000" channel="MOVIE SPHERE">
+    <title lang="en">Deepwater Horizon</title>
+    <desc lang="en">Chief electronics technician Mike Williams (Mark Wahlberg) and other crew members fight for survival when the Deepwater Horizon drilling rig explodes on April 20, 2010, in the Gulf of Mexico.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/6679fa95fe060c0013f14e4b/poster.jpg" />
     <episode-num system="onscreen">S1</episode-num>
     <premiere />
     <rating>
-      <value>All</value>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241108061700 +0000" stop="20241108081200 +0000" channel="MOVIE SPHERE">
+    <title lang="en">The Legend of Hercules</title>
+    <desc lang="en">Exiled and sold into slavery because of a forbidden love, Hercules (Kellan Lutz) must use his formidable powers to fight his way back to his rightful kingdom.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images.pluto.tv/episodes/65e829a46ef49d001341afdc/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <premiere />
+    <rating>
+      <value>12+</value>
     </rating>
   </programme>
   <programme start="20241108020900 +0000" stop="20241108033800 +0000" channel="BRITISH SCREEN CLASSICS">
@@ -252,6 +296,54 @@
     <premiere />
     <rating>
       <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20241108052000 +0000" stop="20241108072500 +0000" channel="BRITISH SCREEN CLASSICS">
+    <title lang="en">Heavens Above!</title>
+    <desc lang="en">An innocent but socially progressive vicar is appointed by mistake to a wealthy, moribund parish. His forward-thinking ideas about Christianity soon begin to upset the conservative parishioners.(n)</desc>
+    <category lang="en">Classics</category>
+    <category lang="en">Classic Dramas</category>
+    <icon src="https://images.pluto.tv/episodes/66aa590b94a184001349e71f/poster.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <premiere />
+    <rating>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20241108024712 +0000" stop="20241108034212 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Sanctuary: Hangover</title>
+    <sub-title lang="en">Hangover</sub-title>
+    <desc lang="en">Finding the front door left ajar and furniture turned over, Magnus arrives home to discover the building’s defense protocols disabled, no one in sight, and the Sanctuary in alarming disarray.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/616574ae0b4e8f001a950c77/poster.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating>
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20241108034212 +0000" stop="20241108043612 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Sanctuary: One Night</title>
+    <sub-title lang="en">One Night</sub-title>
+    <desc lang="en">Will and Abby go on a dinner date, but on the way to the restaurant, their flirtatious exchange is abruptly halted when they are forced into a van at gunpoint.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/616574ae0b4e8f001a950cc2/poster.jpg" />
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating>
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20241108043612 +0000" stop="20241108053012 +0000" channel="MORE TV SCI FI">
+    <title lang="en">Sanctuary: Metamorphosis</title>
+    <sub-title lang="en">Metamorphosis</sub-title>
+    <desc lang="en">The team gathers for their scheduled morning meeting with Will uncharacteristically absent. Kate goes to his room to find out where he is and discovers that although he feels normal, he doesn’t look the part.(n)</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Action Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/episodes/616574ae0b4e8f001a950bc8/poster.jpg" />
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating>
+      <value>15+</value>
     </rating>
   </programme>
 </tv>
