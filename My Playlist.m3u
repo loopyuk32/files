@@ -549,11 +549,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 
 
 #EXTINF:0 channel-id="LEGO Kids TV Pluto TV US" tvc-guide-title="LEGO Kids TV Pluto TV US" group-title="TEST", LEGO Kids TV Pluto TV US
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&serverSideAds=false&checkedby:iptvcat.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&serverSideAds=false
 
 
 #EXTINF:0 channel-id="Kids Movie Club Pluto TV US" tvc-guide-title="Kids Movie Club Pluto TV US" group-title="TEST", Kids Movie Club Pluto TV US
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac&serverSideAds=false&checkedby:iptvcat.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac&serverSideAds=false
 
 
 
@@ -566,11 +566,31 @@ http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
 #EXTINF:0 channel-id="HBO 2 East US" tvc-guide-title="HBO 2 East US" group-title="TEST", HBO 2 East
-https://fl2.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
 
 
 #EXTINF:0 channel-id="Universal Action US" tvc-guide-title="Universal Action US" group-title="TEST", Universal Action Pluto TV US
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a&checkedby:iptvcat.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a
+
+
+#EXTINF:0 channel-id="AMC East US" tvc-guide-title="AMC East US" group-title="TEST", AMC East US
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+
+#EXTINF:0 channel-id="Showtime East US" tvc-guide-title="Showtime East US" group-title="TEST", Showtime East US
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+
+#EXTINF:0 channel-id="Showtime 2 East US" tvc-guide-title="Showtime 2 East US" group-title="TEST", Showtime 2 East US
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+
+#EXTINF:0 channel-id="Showtime Extreme East US" tvc-guide-title="Showtime Extreme East US" group-title="TEST", Showtime Extreme East US
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+
+#EXTINF:0 channel-id="Showtime Next East US" tvc-guide-title="Showtime Next East US" group-title="TEST", Showtime Next East US
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 
 
