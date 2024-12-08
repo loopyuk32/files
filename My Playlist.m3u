@@ -104,7 +104,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
 
 
-#EXTINF:0 channel-id="Pluto TV Comedy Movies" channel-number="27" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV Comedy Movies" group-title="UK MOVIES", Pluto TV Comedy Movies
+#EXTINF:0 channel-id="Pluto TV Comedy Superstars" channel-number="27" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV Comedy Superstars" group-title="UK MOVIES", Pluto TV Comedy Superstars
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
 
 
@@ -475,6 +475,230 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd9
 
 #EXTINF:0 channel-id="CW Gold" channel-number="120" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fb298e5a9-0eb1-4a7d-bcf3-37b75aaa5ed9%2FPlexHorizontal-Default-Art-3840x2160px.jpg" tvc-guide-art="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fb298e5a9-0eb1-4a7d-bcf3-37b75aaa5ed9%2FPlexHorizontal-Default-Art-3840x2160px.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CW Gold" group-title="PLEX", CW Gold
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66635e41ca7b22f4c3a2d741/variant.m3u8?x-plex-token=NzyhtxbmTN7Csh98m6E2&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1732976053&url=f781ef8672f110b4ecfea6fe1872ac74-3db08277f230a8ea411fa77517f8d68035cb858de841341d4587a3ad848f48578bd2be9eb98853ba29cec1a593f385686aef12857b88c4ecda6c7427c3471c1e89afdf7341ceb63914673400407644b5a602bb16bc064c5aeaf171ebc9c59e643ffd9464f3fb4f9848389e59b40224e75ecd6be3f3c7630a2afb34d469ea43e43105ff69f0a6eed01c829b1b65c977fe03ee2a25ed4d82dcfe2ca09917582e112797c9696b43226a21430d9a387bb52a4866a9ec3d2b43d4edd4f80173c0795f266a290451ebf05a70bb1a72d8891267
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 channel-id="Nick Jr. East US" tvc-guide-title="Nick Jr. East US" group-title="TEST", Nick Jr. East US
+https://fl2.moveonjoy.com/NICK_JR/index.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 channel-id="Nickelodeon East US" tvc-guide-title="Nickelodeon East US" group-title="TEST", Nickelodeon East US
+http://143.244.60.30/NICKELODEON/index.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 channel-id="NickToons US" tvc-guide-title="NickToons US" group-title="TEST", NickToons US
+http://143.244.60.30/NICKTOONS/index.m3u8
+
+
+#EXTINF:0 channel-id="Disney Channel US" tvc-guide-title="Disney Channel US" group-title="TEST", Disney Channel US
+https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+
+#EXTINF:0 channel-id="Disney Jr. US" tvc-guide-title="Disney Jr. US" group-title="TEST", Disney Jr. US
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
+
+#EXTINF:0 channel-id="Disney XD US" tvc-guide-title="Disney XD US" group-title="TEST", Disney XD US
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+
+#EXTINF:0 channel-id="Cartoon Network East US" tvc-guide-title="Cartoon Network East US" group-title="TEST", Cartoon Network East US
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+
+#EXTINF:0 channel-id="FX East US" tvc-guide-title="FX East US" group-title="TEST", FX East US
+http://fl2.moveonjoy.com/FX/index.m3u8
+
+
+#EXTINF:0 channel-id="Comedy Central East US" tvc-guide-title="Comedy Central East US" group-title="TEST", Comedy Central East US
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+
+#EXTINF:0 channel-id="Syfy East US" tvc-guide-title="Syfy East US" group-title="TEST", Syfy East US
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+
+
+#EXTINF:0 channel-id="Hallmark Channel East US" tvc-guide-title="Hallmark Channel East US" group-title="TEST", Hallmark Channel East US
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+
+#EXTINF:0 channel-id="Paramount Network East" tvc-guide-title="Paramount Network East" group-title="TEST", Paramount Network East
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+
+#EXTINF:0 channel-id="Hallmark Movies & More Pluto TV US" tvc-guide-title="Hallmark Movies & More Pluto TV US" group-title="TEST", Hallmark Movies & More Pluto TV US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a&serverSideAds=false
+
+
+#EXTINF:0 channel-id="Paramount Movie Channel Pluto TV US" tvc-guide-title="Paramount Movie Channel Pluto TV US" group-title="TEST", Paramount Movie Channel Pluto TV US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+
+
+#EXTINF:0 channel-id="Comedy Central Pluto TV US" tvc-guide-title="Comedy Central Pluto TV US" group-title="TEST", Comedy Central Pluto TV US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
+
+
+#EXTINF:0 channel-id="LEGO Kids TV Pluto TV US" tvc-guide-title="LEGO Kids TV Pluto TV US" group-title="TEST", LEGO Kids TV Pluto TV US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:0 channel-id="Kids Movie Club Pluto TV US" tvc-guide-title="Kids Movie Club Pluto TV US" group-title="TEST", Kids Movie Club Pluto TV US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac&serverSideAds=false&checkedby:iptvcat.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
