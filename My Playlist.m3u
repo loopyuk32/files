@@ -557,6 +557,24 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 
 
+#EXTINF:0 channel-id="FOX East US" tvc-guide-title="FOX East US" group-title="TEST", FOX East US
+http://143.244.60.30/FOX_EAST/index.m3u8
+
+
+#EXTINF:0 channel-id="FXX East US" tvc-guide-title="FXX East US" group-title="TEST", FXX East US
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
+
+#EXTINF:0 channel-id="HBO 2 East US" tvc-guide-title="HBO 2 East US" group-title="TEST", HBO 2 East
+https://fl2.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 channel-id="Universal Action US" tvc-guide-title="Universal Action US" group-title="TEST", Universal Action Pluto TV US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a&checkedby:iptvcat.com
+
+
+
+
 
 
 
