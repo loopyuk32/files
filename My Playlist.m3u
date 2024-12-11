@@ -273,6 +273,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c638726838ee00085ac20d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
 
 
+#EXTINF:0 channel-id="Comedy Central" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg" tvc-guide-title="Comedy Central" group-title="USA CHANNELS", Comedy Central
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
+
+
 #EXTINF:0 channel-id="MLB" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/featuredImage.jpg" tvc-guide-title="MLB" group-title="USA SPORTS", MLB
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
 
@@ -550,11 +554,7 @@ http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:0 channel-id="Paramount Network East" tvc-guide-title="Paramount Network East" group-title="TEST", Paramount Network East
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-
-#EXTINF:0 channel-id="Comedy Central Pluto TV US" tvc-guide-title="Comedy Central Pluto TV US" group-title="TEST", Comedy Central Pluto TV US
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
-
+`
 
 #EXTINF:0 channel-id="LEGO Kids TV Pluto TV US" tvc-guide-title="LEGO Kids TV Pluto TV US" group-title="TEST", LEGO Kids TV Pluto TV US
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&serverSideAds=false
