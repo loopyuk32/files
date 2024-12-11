@@ -221,6 +221,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 
 
+#EXTINF:0 channel-id="Kids Movie Club" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" tvc-guide-art="5db0ad56edc89300090d2ebb//featuredImage.jpg" tvc-guide-title="Kids Movie Club" group-title="USA MOVIES", Kids Movie Club
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac&serverSideAds=false
+
+
 #EXTINF:0 channel-id="More TV Drama" tvg-logo="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/featuredImage.jpg" tvc-guide-title="More TV Drama" group-title="USA CHANNELS", More TV Drama
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
 
@@ -554,11 +558,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 
 #EXTINF:0 channel-id="LEGO Kids TV Pluto TV US" tvc-guide-title="LEGO Kids TV Pluto TV US" group-title="TEST", LEGO Kids TV Pluto TV US
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&serverSideAds=false
-
-
-#EXTINF:0 channel-id="Kids Movie Club Pluto TV US" tvc-guide-title="Kids Movie Club Pluto TV US" group-title="TEST", Kids Movie Club Pluto TV US
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac&serverSideAds=false
-
 
 
 #EXTINF:0 channel-id="FOX East US" tvc-guide-title="FOX East US" group-title="TEST", FOX East US
