@@ -213,6 +213,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
 
 
+#EXTINF:0 channel-id="Hallmark Movies & More" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/628e685ba3811100070551a8/featuredImage.jpg" tvc-guide-title="Hallmark Movies & More" group-title="USA MOVIES", Hallmark Movies & More
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
+
+
 #EXTINF:0 channel-id="More TV Drama" tvg-logo="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/featuredImage.jpg" tvc-guide-title="More TV Drama" group-title="USA CHANNELS", More TV Drama
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9769ac81-8259-11ef-b0d5-33a3e2ec3f3b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0059bb64-d391-477c-b0a5-2aaddfbbd72e&userId=&serverSideAds=true
 
@@ -538,10 +542,6 @@ http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:0 channel-id="Paramount Network East" tvc-guide-title="Paramount Network East" group-title="TEST", Paramount Network East
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-
-#EXTINF:0 channel-id="Hallmark Movies & More Pluto TV US" tvc-guide-title="Hallmark Movies & More Pluto TV US" group-title="TEST", Hallmark Movies & More Pluto TV US
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a&serverSideAds=false
 
 
 #EXTINF:0 channel-id="Paramount Movie Channel Pluto TV US" tvc-guide-title="Paramount Movie Channel Pluto TV US" group-title="TEST", Paramount Movie Channel Pluto TV US
