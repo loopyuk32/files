@@ -623,12 +623,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 
 
 
-#EXTINF:0 channel-id="USA A&E UHD" tvc-guide-title="USA A&E UHD" group-title="TEST 2", USA A&E UHD
-http://23.227.147.172:80/Yorkshire78/Yorkshire55/175784.m3u8
 
 
-#EXTINF:0 channel-id="AMC USA" tvc-guide-title="AMC USA" group-title="TEST 2", AMC USA
-http://23.227.147.172:80/Yorkshire78/Yorkshire55/175787.m3u8
+#EXTINF:0 channel-id="AMC EAST USA" tvc-guide-title="AMC EAST USA" group-title="TEST 2", AMC EAST USA
+http://23.227.147.172:80/Yorkshire78/Yorkshire55/175788.m3u8
+
 
 
 
