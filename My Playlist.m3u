@@ -580,7 +580,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 
-#EXTINF:0 channel-id="Showtime East US" tvc-guide-title="Showtime East US" group-title="TEST", Showtime East US
+#EXTINF:0 channel-id="Paramount+ with Showtime East US" tvc-guide-title="Paramount+ with Showtime East US" group-title="TEST", Paramount+ with Showtime East US
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
 
@@ -600,7 +600,12 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 
 
+#EXTINF:0 channel-id="MGM+ East US" tvc-guide-title="MGM+ East US" group-title="TEST", MGM+ East US
+http://fl2.moveonjoy.com/EPIX/index.m3u8?checkedby:iptvcat.com
 
+
+#EXTINF:0 channel-id="Stories By AMC" tvc-guide-title="Stories By AMC" group-title="TEST", Stories By AMC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845&serverSideAds=false&checkedby:iptvcat.com
 
 
 
