@@ -678,12 +678,22 @@ http://23.227.147.172:80/Yorkshire78/Yorkshire55/189931.m3u8
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/189932.m3u8
 
 
-#EXTINF:0 channel-id="Gold" tvc-guide-title="Gold" group-title="UK LIVE TV", Gold
+#EXTINF:0 channel-id="U & Gold" tvc-guide-title="Gold" group-title="UK LIVE TV", Gold
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/189951.m3u8
 
 
 #EXTINF:0 channel-id="Nick JR" tvc-guide-title="Nick JR" group-title="UK LIVE TV", Nick JR
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/189981.m3u8
+
+
+#EXTINF:0 channel-id="Nick JR Too" tvc-guide-title="Nick JR Too" group-title="UK LIVE TV", Nick JR Too
+http://23.227.147.172:80/Yorkshire78/Yorkshire55/189982.m3u8
+
+
+#EXTINF:0 channel-id="Nick Toons" tvc-guide-title="Nick Toons" group-title="UK LIVE TV", Nick Toons
+http://23.227.147.172:80/Yorkshire78/Yorkshire55/189983.m3u8
+
+
 
 
 
