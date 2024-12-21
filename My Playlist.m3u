@@ -508,51 +508,51 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66635e41ca7b
 
 
 
-#EXTINF:0 channel-id="Nick Jr. East US" tvc-guide-title="Nick Jr. East US" group-title="TEST", Nick Jr. East US
+#EXTINF:0 channel-id="Nick Jr. East US" tvc-guide-title="Nick Jr. East US" group-title="US LIVE TV", Nick Jr. East US
 https://fl2.moveonjoy.com/NICK_JR/index.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 channel-id="Nickelodeon East US" tvc-guide-title="Nickelodeon East US" group-title="TEST", Nickelodeon East US
+#EXTINF:0 channel-id="Nickelodeon East US" tvc-guide-title="Nickelodeon East US" group-title="US LIVE TV", Nickelodeon East US
 http://143.244.60.30/NICKELODEON/index.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 channel-id="NickToons US" tvc-guide-title="NickToons US" group-title="TEST", NickToons US
+#EXTINF:0 channel-id="NickToons US" tvc-guide-title="NickToons US" group-title="US LIVE TV", NickToons US
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 
-#EXTINF:0 channel-id="Disney Channel US" tvc-guide-title="Disney Channel US" group-title="TEST", Disney Channel US
+#EXTINF:0 channel-id="Disney Channel US" tvc-guide-title="Disney Channel US" group-title="US LIVE TV", Disney Channel US
 https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 
-#EXTINF:0 channel-id="Disney Jr. US" tvc-guide-title="Disney Jr. US" group-title="TEST", Disney Jr. US
+#EXTINF:0 channel-id="Disney Jr. US" tvc-guide-title="Disney Jr. US" group-title="US LIVE TV", Disney Jr. US
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
 
-#EXTINF:0 channel-id="Disney XD US" tvc-guide-title="Disney XD US" group-title="TEST", Disney XD US
+#EXTINF:0 channel-id="Disney XD US" tvc-guide-title="Disney XD US" group-title="US LIVE TV", Disney XD US
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 
-#EXTINF:0 channel-id="Cartoon Network East US" tvc-guide-title="Cartoon Network East US" group-title="TEST", Cartoon Network East US
+#EXTINF:0 channel-id="Cartoon Network East US" tvc-guide-title="Cartoon Network East US" group-title="US LIVE TV", Cartoon Network East US
 https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 
-#EXTINF:0 channel-id="FX East US" tvc-guide-title="FX East US" group-title="TEST", FX East US
+#EXTINF:0 channel-id="FX East US" tvc-guide-title="FX East US" group-title="US LIVE TV", FX East US
 http://fl2.moveonjoy.com/FX/index.m3u8
 
 
-#EXTINF:0 channel-id="Comedy Central East US" tvc-guide-title="Comedy Central East US" group-title="TEST", Comedy Central East US
+#EXTINF:0 channel-id="Comedy Central East US" tvc-guide-title="Comedy Central East US" group-title="US LIVE TV", Comedy Central East US
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 
-#EXTINF:0 channel-id="Syfy East US" tvc-guide-title="Syfy East US" group-title="TEST", Syfy East US
+#EXTINF:0 channel-id="Syfy East US" tvc-guide-title="Syfy East US" group-title="US LIVE TV", Syfy East US
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 
-#EXTINF:0 channel-id="Hallmark Channel East US" tvc-guide-title="Hallmark Channel East US" group-title="TEST", Hallmark Channel East US
+#EXTINF:0 channel-id="Hallmark Channel East US" tvc-guide-title="Hallmark Channel East US" group-title="US LIVE TV", Hallmark Channel East US
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 
-#EXTINF:0 channel-id="Paramount Network East US" tvc-guide-title="Paramount Network East US" group-title="TEST", Paramount Network East US
+#EXTINF:0 channel-id="Paramount Network East US" tvc-guide-title="Paramount Network East US" group-title="US LIVE TV", Paramount Network East US
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 `
 
@@ -560,11 +560,11 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&serverSideAds=false
 
 
-#EXTINF:0 channel-id="FXX East US" tvc-guide-title="FXX East US" group-title="TEST", FXX East US
+#EXTINF:0 channel-id="FXX East US" tvc-guide-title="FXX East US" group-title="US LIVE TV", FXX East US
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
-#EXTINF:0 channel-id="HBO 2 East US" tvc-guide-title="HBO 2 East US" group-title="TEST", HBO 2 East
+#EXTINF:0 channel-id="HBO 2 East US" tvc-guide-title="HBO 2 East US" group-title="US LIVE TV", HBO 2 East
 https://fl2.moveonjoy.com/HBO_2/index.m3u8
 
 
@@ -572,31 +572,31 @@ https://fl2.moveonjoy.com/HBO_2/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a
 
 
-#EXTINF:0 channel-id="AMC East US" tvc-guide-title="AMC East US" group-title="TEST", AMC East US
+#EXTINF:0 channel-id="AMC East US" tvc-guide-title="AMC East US" group-title="US LIVE TV", AMC East US
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 
-#EXTINF:0 channel-id="Paramount+ with Showtime East US" tvc-guide-title="Paramount+ with Showtime East US" group-title="TEST", Paramount+ with Showtime East US
+#EXTINF:0 channel-id="Paramount+ with Showtime East US" tvc-guide-title="Paramount+ with Showtime East US" group-title="US LIVE TV", Paramount+ with Showtime East US
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
 
-#EXTINF:0 channel-id="Showtime 2 East US" tvc-guide-title="Showtime 2 East US" group-title="TEST", Showtime 2 East US
+#EXTINF:0 channel-id="Showtime 2 East US" tvc-guide-title="Showtime 2 East US" group-title="US LIVE TV", Showtime 2 East US
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 
 
-#EXTINF:0 channel-id="Showtime Extreme East US" tvc-guide-title="Showtime Extreme East US" group-title="TEST", Showtime Extreme East US
+#EXTINF:0 channel-id="Showtime Extreme East US" tvc-guide-title="Showtime Extreme East US" group-title="US LIVE TV", Showtime Extreme East US
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
 
-#EXTINF:0 channel-id="Showtime Next East US" tvc-guide-title="Showtime Next East US" group-title="TEST", Showtime Next East US
+#EXTINF:0 channel-id="Showtime Next East US" tvc-guide-title="Showtime Next East US" group-title="US LIVE TV", Showtime Next East US
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 
-#EXTINF:0 channel-id="Freeform East US" tvc-guide-title="Freeform East US" group-title="TEST", Freeform East US
+#EXTINF:0 channel-id="Freeform East US" tvc-guide-title="Freeform East US" group-title="US LIVE TV", Freeform East US
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 
 
-#EXTINF:0 channel-id="MGM+ East US" tvc-guide-title="MGM+ East US" group-title="TEST", MGM+ East US
+#EXTINF:0 channel-id="MGM+ East US" tvc-guide-title="MGM+ East US" group-title="US LIVE TV", MGM+ East US
 http://fl2.moveonjoy.com/EPIX/index.m3u8?checkedby:iptvcat.com
 
 
@@ -604,31 +604,31 @@ http://fl2.moveonjoy.com/EPIX/index.m3u8?checkedby:iptvcat.com
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845&serverSideAds=false&checkedby:iptvcat.com
 
 
-#EXTINF:0 channel-id="HBO East US" tvc-guide-title="HBO East US" group-title="TEST", HBO East US
+#EXTINF:0 channel-id="HBO East US" tvc-guide-title="HBO East US" group-title="US LIVE TV", HBO East US
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/176044.m3u8
 
 
-#EXTINF:0 channel-id="HBO Comedy East US" tvc-guide-title="HBO Comedy East US" group-title="TEST", HBO Comedy East US
+#EXTINF:0 channel-id="HBO Comedy East US" tvc-guide-title="HBO Comedy East US" group-title="US LIVE TV", HBO Comedy East US
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/176042.m3u8
 
 
-#EXTINF:0 channel-id="HBO Family East US" tvc-guide-title="HBO Family East US" group-title="TEST", HBO Family East US
+#EXTINF:0 channel-id="HBO Family East US" tvc-guide-title="HBO Family East US" group-title="US LIVE TV", HBO Family East US
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/176047.m3u8
 
 
-#EXTINF:0 channel-id="HBO Zone East US" tvc-guide-title="HBO Zone East US" group-title="TEST", HBO Zone East US
+#EXTINF:0 channel-id="HBO Zone East US" tvc-guide-title="HBO Zone East US" group-title="US LIVE TV", HBO Zone East US
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/176052.m3u8
 
 
-#EXTINF:0 channel-id="Discovery East US" tvc-guide-title="Discovery East US" group-title="TEST", Discovery East US
+#EXTINF:0 channel-id="Discovery East US" tvc-guide-title="Discovery East US" group-title="US LIVE TV", Discovery East US
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/175826.m3u8
 
 
-#EXTINF:0 channel-id="Fuse TV East US" tvc-guide-title="Fuse TV East US" group-title="TEST", Fuse TV East US
+#EXTINF:0 channel-id="Fuse TV East US" tvc-guide-title="Fuse TV East US" group-title="US LIVE TV", Fuse TV East US
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/175856.m3u8
 
 
-#EXTINF:0 channel-id="ShowTime Family Zone East US" tvc-guide-title="Showtime Family Zone East US" group-title="TEST", Showtime Family Zone East US
+#EXTINF:0 channel-id="ShowTime Family Zone East US" tvc-guide-title="Showtime Family Zone East US" group-title="US LIVE TV", Showtime Family Zone East US
 http://23.227.147.172:80/Yorkshire78/Yorkshire55/176060.m3u8
 
 
